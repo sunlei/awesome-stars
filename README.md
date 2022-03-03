@@ -674,7 +674,7 @@
 - [klzgrad/naiveproxy](https://github.com/klzgrad/naiveproxy) - Make a fortune quietly
 - [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
 - [FSecureLABS/C3](https://github.com/FSecureLABS/C3) - Custom Command and Control (C3). A framework for rapid prototyping of custom C2 channels, while still providing integration with existing offensive toolkits.
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 9.2.0.42521, 3.3.5 = 3.3.5a.12340)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 9.2.0.42560, 3.3.5 = 3.3.5a.12340)
 - [TonyChen56/WeChatRobot](https://github.com/TonyChen56/WeChatRobot) - PC版微信机器人 微信Api、微信api、微信发卡机器人、微信聊天机器人 python微信api 微信接口 微信数据库解密
 - [everdox/InfinityHook](https://github.com/everdox/InfinityHook) - Hook system calls, context switches, page faults and more.
 - [cycfi/elements](https://github.com/cycfi/elements) - Elements C++ GUI library
@@ -1194,6 +1194,8 @@
 
 ## Go 
 
+- [zquestz/s](https://github.com/zquestz/s) - Open a web search in your terminal.
+- [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
 - [nikitavoloboev/small-workflows](https://github.com/nikitavoloboev/small-workflows) - Small Alfred workflows I use
 - [oniony/TMSU](https://github.com/oniony/TMSU) - TMSU lets you tags your files and then access them through a nifty virtual filesystem from any other application.
 - [Le0nsec/SecCrawler](https://github.com/Le0nsec/SecCrawler) - 一个方便安全研究人员获取每日安全日报的爬虫和推送程序，目前爬取范围包括先知社区、安全客、Seebug Paper、跳跳糖、奇安信攻防社区、棱角社区，持续更新中。
@@ -1248,7 +1250,7 @@
 - [mvisonneau/gitlab-ci-pipelines-exporter](https://github.com/mvisonneau/gitlab-ci-pipelines-exporter) - Prometheus / OpenMetrics exporter for GitLab CI pipelines insights
 - [noot/atomic-swap](https://github.com/noot/atomic-swap) - 💫 ETH-XMR atomic swap implementation
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
-- [cshum/imagor](https://github.com/cshum/imagor) - Fast, Docker-ready image processing server written in Go
+- [cshum/imagor](https://github.com/cshum/imagor) - Fast, Docker-ready image processing server built with Go and libvips
 - [alibaba/kt-connect](https://github.com/alibaba/kt-connect) - Manage and Integration with your Kubernetes dev environment more efficient.
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
 - [prabhatsharma/zinc](https://github.com/prabhatsharma/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
@@ -1266,7 +1268,7 @@
 - [traefik/whoami](https://github.com/traefik/whoami) - Tiny Go webserver that prints os information and HTTP request to output
 - [tharsis/evmos](https://github.com/tharsis/evmos) - Evmos is the Ethereum Virtual Machine (EVM) Hub on the Cosmos Network. It is the flagship implementation of the Ethermint library that prioritizes interoperability and novel economics.
 - [roadrunner-server/goridge](https://github.com/roadrunner-server/goridge) - 🧙 High-performance PHP-to-Golang IPC/RPC bridge
-- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) - 🤯 High-performance PHP application server, load-balancer and process manager written in Golang
+- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) - 💪🇺🇦❤️ High-performance PHP application server, load-balancer and process manager written in Golang
 - [dshearer/jobber](https://github.com/dshearer/jobber) - An alternative to cron, with sophisticated status-reporting and error-handling
 - [easychen/wecomchan](https://github.com/easychen/wecomchan) - 通过企业微信向微信推送消息的配置文档、直推函数和可自行搭建的在线服务代码。可以看成Server酱的开源替代方案之一。
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell.
@@ -1477,7 +1479,7 @@
 - [projectdiscovery/proxify](https://github.com/projectdiscovery/proxify) - Swiss Army knife Proxy tool for HTTP/HTTPS traffic capture, manipulation, and replay on the go.
 - [traggo/server](https://github.com/traggo/server) - self-hosted tag-based time tracking
 - [Adminisme/ServerScan](https://github.com/Adminisme/ServerScan) - ServerScan一款使用Golang开发的高并发网络扫描、服务探测工具。
-- [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
+- [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A web and RPC framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
 - [Hackl0us/GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN) - 最小巧、最准确、最全面、最实用的中国大陆 GeoIP2 数据库及 IP 地址段
 - [magma/magma](https://github.com/magma/magma) - Platform for building access networks and modular network services
 - [gookit/validate](https://github.com/gookit/validate) - ⚔ Go package for data validation and filtering. support Map, Struct, Form data. Go通用的数据验证与过滤库，使用简单，内置大部分常用验证、过滤器，支持自定义验证器、自定义消息、字段翻译。
@@ -1730,7 +1732,7 @@
 - [coder/sshcode](https://github.com/coder/sshcode) - Run VS Code on any server over SSH.
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 - [sysdream/chashell](https://github.com/sysdream/chashell) - Chashell is a Go reverse shell that communicates over DNS. It can be used to bypass firewalls or tightly restricted networks.
-- [ContentSquare/chproxy](https://github.com/ContentSquare/chproxy) - ClickHouse http proxy and load balancer
+- [ContentSquare/chproxy](https://github.com/ContentSquare/chproxy) - Unofficial ClickHouse http proxy and load balancer
 - [jondot/goweight](https://github.com/jondot/goweight) - A tool to analyze and troubleshoot a Go binary size.
 - [saibing/tools](https://github.com/saibing/tools) - [mirror] Go Tools
 - [vugu/vugu](https://github.com/vugu/vugu) - Vugu: A modern UI library for Go+WebAssembly (experimental)
@@ -2840,7 +2842,7 @@
 - [Smile4ever/Neat-URL](https://github.com/Smile4ever/Neat-URL) - Neat URL cleans URLs, removing parameters such as Google Analytics' utm parameters.
 - [Th3Wall/Fakeflix](https://github.com/Th3Wall/Fakeflix) - Not the usual clone that you can find on the web.
 - [pa7/heatmap.js](https://github.com/pa7/heatmap.js) - 🔥 JavaScript Library for HTML5 canvas based heatmaps
-- [code-for-charity/YouTube-Extension](https://github.com/code-for-charity/YouTube-Extension) - YouTube Extension 🎧80+Features🧰Please⭐document, code or donate📌Tidy📌Longest-standing©️2012. Users👨‍👩‍👧‍👧470,000+ ⚙️⋮⏯️🎞️☕🎛️🔴🎬🔊🎨🧩🧪📈Player: Repeat Screenshot Rotate; Hide related video distraction. Always expand video Description. Playback speed. Video Quality bandwidth H.264 electricity. Player Size Full Window. Themes Customization. Statistics. Playlist Reverse YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube Youtube enhancer YouTube app YouTube video YouTube YouTube YouTube api v3 YouTube playback YouTube player VP8 VP9 AV1 vidIQ tubebuddy download adblocker adblock ads sponsorblock addon youtube music ⭐ youtube premium css css4 html5 ytdl youtube-dl invidious iridium ParticleCore youtube+ youtube++ youtube-plus maia-yt youtube nonstop youtube control center vlogger vlog h264ify h264 m.youtube.com music.youtube.com studio.youtube youtube mobile youtube studio ⭐ kids Vanced gaming.youtube.com gaming youtubecenter freetube lite-youtube-embed newpipe youtube-dl-gui  mps-youtube nuclear pytube awesome youtubers youtube downloader 8k 4k 60fps 30fps youtubeexplode vidgear k-lite tubebuddy adobe apple ios iphone design simplify ffmpeg premiere designer annoyance  youtube upload
+- [code-for-charity/YouTube-Extension](https://github.com/code-for-charity/YouTube-Extension) - YouTube Extension 🎧80+Features🧰Please⭐document, code or donate📌Tidy📌Longest-standing©️2012. Users👨‍👩‍👧‍👧480,000+ ⚙️⋮⏯️🎞️☕🎛️🔴🎬🔊🎨🧩🧪📈Player: Repeat Screenshot Rotate; Hide related video distraction. Always expand video Description. Playback speed. Video Quality bandwidth H.264 electricity. Player Size Full Window. Themes Customization. Statistics. Playlist Reverse YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube Youtube enhancer YouTube app YouTube video YouTube YouTube YouTube api v3 YouTube playback YouTube player VP8 VP9 AV1 vidIQ tubebuddy download adblocker adblock ads sponsorblock addon youtube music ⭐ youtube premium css css4 html5 ytdl youtube-dl invidious iridium ParticleCore youtube+ youtube++ youtube-plus maia-yt youtube nonstop youtube control center vlogger vlog h264ify h264 m.youtube.com music.youtube.com studio.youtube youtube mobile youtube studio ⭐ kids Vanced gaming.youtube.com gaming youtubecenter freetube lite-youtube-embed newpipe youtube-dl-gui  mps-youtube nuclear pytube awesome youtubers youtube downloader 8k 4k 60fps 30fps youtubeexplode vidgear k-lite tubebuddy adobe apple ios iphone design simplify ffmpeg premiere designer annoyance  youtube upload
 - [reruin/sharelist](https://github.com/reruin/sharelist) - 快速分享 GoogleDrive OneDrive
 - [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
 - [kickscondor/fraidycat](https://github.com/kickscondor/fraidycat) - Follow blogs, wikis, YouTube channels, as well as accounts on Twitter, Instagram, etc. from a single page.
@@ -3033,7 +3035,7 @@
 - [gildas-lormeau/SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - Web Extension for Firefox/MS Edge and CLI tool to save a faithful copy of an entire web page in a self-extracting HTML/ZIP polyglot file
 - [csstree/csstree](https://github.com/csstree/csstree) - A tool set for CSS including fast detailed parser, walker, generator and lexer based on W3C specs and browser implementations
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
-- [crisdosyago/Viewfinder](https://github.com/crisdosyago/Viewfinder) - 📷 ViewFinder - Remote isolated browser API for security, automation visibility and interactivity. Run on our cloud, or bring your own. Full scope double reverse web proxy with multi-tab, mobile-ready browser UI frontend. Plus co-browsing, advanced adaptive streaming, secure document viewing and more! But only in the Pro version. Get Viewfinder today! Secure your document needs and internet, today!
+- [crisdosyago/BrowserBox](https://github.com/crisdosyago/BrowserBox) - 📷 BrowserBox - Remote isolated browser API for security, automation visibility and interactivity. Run on our cloud, or bring your own. Full scope double reverse web proxy with multi-tab, mobile-ready browser UI frontend. Plus co-browsing, advanced adaptive streaming, secure document viewing and more! But only in the Pro version. Get BB today! Secure your document needs and internet, today!
 - [HTTPArchive/httparchive.org](https://github.com/HTTPArchive/httparchive.org) - The HTTP Archive website hosted on App Engine
 - [xueqiu/rdr](https://github.com/xueqiu/rdr) - 
 - [okonet/lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
@@ -3182,7 +3184,7 @@
 - [klaussinani/hyperocean](https://github.com/klaussinani/hyperocean) - Deep oceanic blue Hyper theme
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [baidu/san](https://github.com/baidu/san) - A fast, portable, flexible JavaScript component framework
-- [yued-fe/lulu](https://github.com/yued-fe/lulu) - LuLu UI for PC web
+- [yued-fe/lulu](https://github.com/yued-fe/lulu) - 跨端跨框架的原生 UI 组件库
 - [Netflix/pollyjs](https://github.com/Netflix/pollyjs) - Record, Replay, and Stub HTTP Interactions.
 - [GeekyAnts/vue-native-core](https://github.com/GeekyAnts/vue-native-core) - Vue Native is a framework to build cross platform native mobile apps using JavaScript
 - [pod4g/hiper](https://github.com/pod4g/hiper) - 🚀 A statistical analysis tool for performance testing
@@ -4455,7 +4457,6 @@
 - [mumble-voip/mumble-iphoneos](https://github.com/mumble-voip/mumble-iphoneos) - Mumble client for iOS-based devices
 - [TheAmazingAudioEngine/TheAmazingAudioEngine](https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine) - Core Audio, Cordially: A sophisticated framework for iOS audio applications, built so you don't have to.
 - [syedhali/EZAudio](https://github.com/syedhali/EZAudio) - An iOS and macOS audio visualization framework built upon Core Audio useful for anyone doing real-time, low-latency audio processing and visualizations.
-- [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu) - 🕹 Retro video game emulation for macOS
 - [buddycloud/buddycloud-iOS-client](https://github.com/buddycloud/buddycloud-iOS-client) - buddycloud iPhone client
 - [ealeksandrov/ProvisionQL](https://github.com/ealeksandrov/ProvisionQL) - Quick Look plugin for apps and provisioning profile files
 - [apps-guild/Paper](https://github.com/apps-guild/Paper) - An Objective-C port of Paper.js, see http://paperjs.org
@@ -5214,6 +5215,7 @@
 
 ## PHP 
 
+- [leonstafford/wp2static](https://github.com/leonstafford/wp2static) - WordPress static site generator for security, performance and cost benefits
 - [stevegrunwell/asimov](https://github.com/stevegrunwell/asimov) - Automatically exclude development dependencies from Apple Time Machine backups
 - [operasoftware/ssh-key-authority](https://github.com/operasoftware/ssh-key-authority) - A tool for managing SSH key access to any number of servers.
 - [Piwigo/Piwigo](https://github.com/Piwigo/Piwigo) - Manage your photos with Piwigo, a full featured open source photo gallery application for the web. Star us on Github! More than 200 plugins and themes available. Join us and contribute!
@@ -5447,6 +5449,8 @@
 
 ## Python 
 
+- [ceccopierangiolieugenio/pyTermTk](https://github.com/ceccopierangiolieugenio/pyTermTk) - Python Terminal Toolkit
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations during build-time for Terraform, CloudFormation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
 - [simonw/sqlite-utils](https://github.com/simonw/sqlite-utils) - Python CLI utility and library for manipulating SQLite databases
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [gkbrk/slowloris](https://github.com/gkbrk/slowloris) - Low bandwidth DoS tool. Slowloris rewrite in Python.
@@ -7356,6 +7360,8 @@
 
 ## Rust 
 
+- [trishume/syntect](https://github.com/trishume/syntect) - Rust library for syntax highlighting using Sublime Text syntax definitions.
+- [audulus/rui](https://github.com/audulus/rui) - Experimental Rust UI library
 - [dflemstr/rq](https://github.com/dflemstr/rq) - Record Query - A tool for doing record analysis and transformation
 - [amoffat/supertag](https://github.com/amoffat/supertag) - A tag-based filesystem
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code
@@ -7382,7 +7388,7 @@
 - [andrewchambers/bupstash](https://github.com/andrewchambers/bupstash) - Easy and efficient encrypted backups.
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [anp/moxie](https://github.com/anp/moxie) - lightweight platform-agnostic tools for declarative UI
-- [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无GC也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS未来基石" — 工作之余的第二语言来试试Rust吧。&lt;&lt;Rust语言圣经&gt;&gt;拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的WASM和Deno等专题。这可能是目前最用心的Rust中文学习教程/书籍
+- [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。&lt;&lt;Rust语言圣经&gt;&gt;拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程/书籍
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
 - [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) - 🦀 How to minimize Rust binary size 📦
 - [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
@@ -8002,6 +8008,9 @@
 
 ## Swift 
 
+- [mandrigin/AlfredSwitchWindows](https://github.com/mandrigin/AlfredSwitchWindows) - An application for using in Alfred workflow to enumerate and switch between windows on OSX.
+- [acheronfail/pixel-picker](https://github.com/acheronfail/pixel-picker) - A tiny menu bar application that helps you pick colours from your screen! 🔍✨
+- [chadaustin/is-it-snappy](https://github.com/chadaustin/is-it-snappy) - iOS App for measuring input-to-output latency
 - [quoid/userscripts](https://github.com/quoid/userscripts) - An open-source userscript manager for Safari
 - [ProfileCreator/ProfileCreator](https://github.com/ProfileCreator/ProfileCreator) - macOS app to create standard or customized configuration profiles.
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave
@@ -8210,6 +8219,7 @@
 - [fullstackio/FlappySwift](https://github.com/fullstackio/FlappySwift) - swift implementation of flappy bird. More at fullstackedu.com
 - [mxcl/PromiseKit](https://github.com/mxcl/PromiseKit) - Promises for Swift & ObjC.
 - [arturdev/AMSlideMenu2](https://github.com/arturdev/AMSlideMenu2) - Sliding Menu for iOS (Left and Right menus).  Multiple storyboards and XIBs support.
+- [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu) - 🕹 Retro video game emulation for macOS
 
 ## TSQL 
 
