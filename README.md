@@ -812,7 +812,7 @@
 - [alibaba/AndFix](https://github.com/alibaba/AndFix) - AndFix is a library that offer hot-fix for Android App.
 - [vslavik/winsparkle](https://github.com/vslavik/winsparkle) - App update framework for Windows, inspired by Sparkle for macOS
 - [danielrh/losslessh264](https://github.com/danielrh/losslessh264) - (Deprecated) Lossless h.264 recoder/recompressor. For newest version see:
-- [facebookarchive/wdt](https://github.com/facebookarchive/wdt) - Warp speed Data Transfer (WDT)  is an embeddedable library (and command line tool) aiming to transfer data between 2 systems as fast as possible over multiple TCP paths.
+- [facebook/wdt](https://github.com/facebook/wdt) - Warp speed Data Transfer (WDT)  is an embeddedable library (and command line tool) aiming to transfer data between 2 systems as fast as possible over multiple TCP paths.
 - [swoole/swoole-src](https://github.com/swoole/swoole-src) - 🚀 Coroutine-based concurrency library for PHP
 - [ricochet-im/ricochet](https://github.com/ricochet-im/ricochet) - Anonymous peer-to-peer instant messaging
 - [douban/libmc](https://github.com/douban/libmc) - Fast and light-weight memcached client for C++ / #python / #golang #libmc
@@ -1250,7 +1250,7 @@
 - [mvisonneau/gitlab-ci-pipelines-exporter](https://github.com/mvisonneau/gitlab-ci-pipelines-exporter) - Prometheus / OpenMetrics exporter for GitLab CI pipelines insights
 - [noot/atomic-swap](https://github.com/noot/atomic-swap) - 💫 ETH-XMR atomic swap implementation
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
-- [cshum/imagor](https://github.com/cshum/imagor) - Fast, Docker-ready image processing server built with Go and libvips
+- [cshum/imagor](https://github.com/cshum/imagor) - Fast, Docker-ready image processing server written in Go
 - [alibaba/kt-connect](https://github.com/alibaba/kt-connect) - Manage and Integration with your Kubernetes dev environment more efficient.
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
 - [prabhatsharma/zinc](https://github.com/prabhatsharma/zinc) - Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
@@ -1274,7 +1274,7 @@
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell.
 - [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4 / IPv6)！另外也支持其他 CDN / 网站 IP ~
 - [jkstack/natpass](https://github.com/jkstack/natpass) - 新一代主机管理工具，支持web vnc和web shell
-- [zu1k/nali](https://github.com/zu1k/nali) - An offline tool for querying IP geographic information and CDN provider.一个查询IP地理信息和CDN服务提供商的离线终端工具.
+- [zu1k/nali](https://github.com/zu1k/nali) - 一个查询IP地理信息和CDN服务提供商的离线终端工具.An offline tool for querying IP geographic information and CDN provider.
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go
 - [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - OpenIM: Instant messaging open source project based on go built by former WeChat technology experts. Backend in Go.（由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端SDK开源即时通讯（IM）整体解决方案，可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。）
 - [jedib0t/go-pretty](https://github.com/jedib0t/go-pretty) - Pretty print tables and more in golang!
@@ -1288,7 +1288,7 @@
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [88250/lute](https://github.com/88250/lute) - 🎼 一款结构化的 Markdown 引擎，支持 Go 和 JavaScript。A structured Markdown engine that supports Go and JavaScript.
 - [vouch/vouch-proxy](https://github.com/vouch/vouch-proxy) - an SSO and OAuth / OIDC login solution for Nginx using the auth_request module
-- [authzed/spicedb](https://github.com/authzed/spicedb) - Inspired by Google's Zanzibar paper, SpiceDB is a database system for managing security-critical application permissions.
+- [authzed/spicedb](https://github.com/authzed/spicedb) - Inspired by Google's Zanzibar paper, SpiceDB is an open source database system for managing security-critical application permissions.
 - [sensepost/godoh](https://github.com/sensepost/godoh) - 🕳 godoh - A DNS-over-HTTPS C2
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
@@ -1842,7 +1842,7 @@
 - [rakyll/autopprof](https://github.com/rakyll/autopprof) - Pprof made easy at development time for Go
 - [ryboe/q](https://github.com/ryboe/q) - Quick and dirty debugging output for tired Go programmers
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang).
-- [asim/go-micro](https://github.com/asim/go-micro) - A distributed systems framework
+- [asim/go-micro](https://github.com/asim/go-micro) - A Go microservices framework
 - [svent/sift](https://github.com/svent/sift) - A fast and powerful alternative to grep
 - [go-redis/redis](https://github.com/go-redis/redis) - Type-safe Redis client for Golang
 - [mritd/mmh](https://github.com/mritd/mmh) - Nothing, just a simple ssh tool.
@@ -2893,7 +2893,7 @@
 - [intoli/remote-browser](https://github.com/intoli/remote-browser) - A low-level browser automation framework built on top of the Web Extensions API standard.
 - [anvaka/city-roads](https://github.com/anvaka/city-roads) - Visualization of all roads within any city
 - [visjs/vis-network](https://github.com/visjs/vis-network) - :dizzy: Display dynamic, automatically organised, customizable network views.
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +1000 social media \ websites (Detections get updated regularly)
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in social media \ websites
 - [osnr/TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
 - [cehui0303/Tmall_Tickets](https://github.com/cehui0303/Tmall_Tickets) - 天猫超市茅台抢票功能
 - [Pana/nrm](https://github.com/Pana/nrm) - NPM registry manager, fast switch between different registries: npm, cnpm, nj, taobao
@@ -5607,7 +5607,7 @@
 - [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A Python framework that inspires developers to become better test automation engineers. 🧠💡
 - [YagamiiLight/Cerberus](https://github.com/YagamiiLight/Cerberus) - 一款功能强大的漏洞扫描器，子域名爆破使用aioDNS，asyncio异步快速扫描，覆盖目标全方位资产进行批量漏洞扫描，中间件信息收集，自动收集ip代理，探测Waf信息时自动使用来保护本机真实Ip，在本机Ip被Waf杀死后，自动切换代理Ip进行扫描，Waf信息收集(国内外100+款waf信息)包括安全狗，云锁，阿里云，云盾，腾讯云等，提供部分已知waf bypass 方案，中间件漏洞检测(Thinkphp,weblogic等 CVE-2018-5955,CVE-2018-12613,CVE-2018-11759等)，支持SQL注入, XSS, 命令执行,文件包含, ssrf 漏洞扫描, 支持自定义漏洞邮箱推送功能
 - [Textualize/textual](https://github.com/Textualize/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
-- [firmianay/Vehicle-Security-Toolkit](https://github.com/firmianay/Vehicle-Security-Toolkit) - 汽车/安卓/固件安全测试工具集
+- [firmianay/Vehicle-Security-Toolkit](https://github.com/firmianay/Vehicle-Security-Toolkit) - 汽车/安卓/固件/代码安全测试工具集
 - [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
 - [zvtvz/zvt](https://github.com/zvtvz/zvt) - modular quant framework.
 - [tzwaan/factorio_balancers](https://github.com/tzwaan/factorio_balancers) - 
@@ -5937,7 +5937,7 @@
 - [PowerDNS-Admin/PowerDNS-Admin](https://github.com/PowerDNS-Admin/PowerDNS-Admin) - A PowerDNS web interface with advanced features
 - [eight04/pyXcute](https://github.com/eight04/pyXcute) - A small task runner inspired by npm scripts
 - [s0md3v/Corsy](https://github.com/s0md3v/Corsy) - CORS Misconfiguration Scanner
-- [FeeiCN/Security-PPT](https://github.com/FeeiCN/Security-PPT) - 大安全各领域各公司各会议分享的PPT
+- [FeeiCN/Security-PPT](https://github.com/FeeiCN/Security-PPT) - Security-related Slide Presentation（大安全各领域各公司各会议分享的PPT）
 - [ppwwyyxx/wechat-dump](https://github.com/ppwwyyxx/wechat-dump) - Cracking encrypted wechat message history from android
 - [alecmuffett/real-world-onion-sites](https://github.com/alecmuffett/real-world-onion-sites) - This is a list of substantial, commercial-or-social-good mainstream websites which provide onion services.
 - [cloudflare/flan](https://github.com/cloudflare/flan) - A pretty sweet vulnerability scanner
@@ -7579,7 +7579,7 @@
 - [sivan/heti](https://github.com/sivan/heti) - 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 - [noatpad/typora-theme-ursine](https://github.com/noatpad/typora-theme-ursine) - A Typora theme, inspired by Bear
 - [emilbaehr/automatic-app-landing-page](https://github.com/emilbaehr/automatic-app-landing-page) - A Jekyll theme for automatically generating and deploying landing page sites for mobile apps.
-- [pmarsceill/just-the-docs](https://github.com/pmarsceill/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documention with built-in search.
+- [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documention with built-in search.
 - [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
 - [olOwOlo/hugo-theme-even](https://github.com/olOwOlo/hugo-theme-even) - 🚀 A super concise theme for Hugo https://hugo-theme-even.netlify.app
 - [ahonn/hexo-theme-even](https://github.com/ahonn/hexo-theme-even) - :rocket:  A super concise theme for Hexo
@@ -8618,6 +8618,7 @@
 
 ## Vue 
 
+- [bokub/vanity-eth](https://github.com/bokub/vanity-eth) - ⚡ Browser-based ETH vanity address generator
 - [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [Kholid060/automa](https://github.com/Kholid060/automa) - A chrome extension for automating your browser by connecting blocks
