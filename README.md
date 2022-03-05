@@ -192,6 +192,7 @@
 - [hunterli/remserial](https://github.com/hunterli/remserial) - bridge between socket and serial port
 - [yarrick/iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel
 - [IanHarvey/bluepy](https://github.com/IanHarvey/bluepy) - Python interface to Bluetooth LE on Linux
+- [xiaorouji/openwrt-passwall](https://github.com/xiaorouji/openwrt-passwall) - Special circumstances, stop open.
 - [littlefs-project/littlefs](https://github.com/littlefs-project/littlefs) - A little fail-safe filesystem designed for microcontrollers
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [ColdGrub1384/Pyto](https://github.com/ColdGrub1384/Pyto) - Python IDE for iOS with NumPy, Matplotlib, Pandas, SciPy and SciKit-Learn
@@ -1267,7 +1268,7 @@
 - [ycd/dstp](https://github.com/ycd/dstp) - 🧪 Run common networking tests against your site.
 - [traefik/whoami](https://github.com/traefik/whoami) - Tiny Go webserver that prints os information and HTTP request to output
 - [tharsis/evmos](https://github.com/tharsis/evmos) - Evmos is the Ethereum Virtual Machine (EVM) Hub on the Cosmos Network. It is the flagship implementation of the Ethermint library that prioritizes interoperability and novel economics.
-- [roadrunner-server/goridge](https://github.com/roadrunner-server/goridge) - 🧙 High-performance PHP-to-Golang IPC/RPC bridge
+- [roadrunner-server/goridge](https://github.com/roadrunner-server/goridge) - 💪🇺🇦❤️ High-performance PHP-to-Golang IPC/RPC bridge
 - [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) - 💪🇺🇦❤️ High-performance PHP application server, load-balancer and process manager written in Golang
 - [dshearer/jobber](https://github.com/dshearer/jobber) - An alternative to cron, with sophisticated status-reporting and error-handling
 - [easychen/wecomchan](https://github.com/easychen/wecomchan) - 通过企业微信向微信推送消息的配置文档、直推函数和可自行搭建的在线服务代码。可以看成Server酱的开源替代方案之一。
@@ -1292,7 +1293,7 @@
 - [sensepost/godoh](https://github.com/sensepost/godoh) - 🕳 godoh - A DNS-over-HTTPS C2
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
-- [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A distributed transaction framework that supports multiple languages, supports saga, tcc, xa, 2-phase message strategies.
+- [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - 此仓库应常青藤爸爸要求，已停止维护，请移步 https://github.com/dtm-labs/dtf
 - [Qianlitp/crawlergo](https://github.com/Qianlitp/crawlergo) - A powerful browser crawler for web vulnerability scanners
 - [genuinetools/reg](https://github.com/genuinetools/reg) - Docker registry v2 command line client and repo listing generator with security checks.
 - [earthly/earthly](https://github.com/earthly/earthly) - Repeatable builds
@@ -2247,7 +2248,6 @@
 
 ## HTML 
 
-- [xiaorouji/openwrt-passwall](https://github.com/xiaorouji/openwrt-passwall) - 
 - [damoeb/rss-proxy](https://github.com/damoeb/rss-proxy) - RSS-proxy allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure.
 - [tb0hdan/domains](https://github.com/tb0hdan/domains) - World’s single largest Internet domains dataset
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Source code for the page webvm.io
@@ -2824,7 +2824,6 @@
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [segfall/static-wiki](https://github.com/segfall/static-wiki) - Wikipedia using only static assets & no backend
 - [saghul/txiki.js](https://github.com/saghul/txiki.js) - A tiny JavaScript runtime
-- [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [craigary/nobelium](https://github.com/craigary/nobelium) - A static blog build on top of Notion and NextJS, deployed on Vercel.
 - [ttttmr/Caiyun](https://github.com/ttttmr/Caiyun) - Clean, only translation (Chrome/Firefox extension)
 - [jlongster/absurd-sql](https://github.com/jlongster/absurd-sql) - sqlite3 in ur indexeddb (hopefully a better backend soon)
@@ -2893,7 +2892,7 @@
 - [intoli/remote-browser](https://github.com/intoli/remote-browser) - A low-level browser automation framework built on top of the Web Extensions API standard.
 - [anvaka/city-roads](https://github.com/anvaka/city-roads) - Visualization of all roads within any city
 - [visjs/vis-network](https://github.com/visjs/vis-network) - :dizzy: Display dynamic, automatically organised, customizable network views.
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in social media \ websites
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in +1000 social media \ websites
 - [osnr/TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
 - [cehui0303/Tmall_Tickets](https://github.com/cehui0303/Tmall_Tickets) - 天猫超市茅台抢票功能
 - [Pana/nrm](https://github.com/Pana/nrm) - NPM registry manager, fast switch between different registries: npm, cnpm, nj, taobao
@@ -4676,6 +4675,7 @@
 - [servo/servo](https://github.com/servo/servo) - The Servo Browser Engine
 - [wisdom-projects/holer](https://github.com/wisdom-projects/holer) - Holer exposes local servers behind NATs and firewalls to the public internet over secure tunnels.
 - [vscodecc/vscodecc](https://github.com/vscodecc/vscodecc) - The main repository for VS Code Chinese Community
+- [unlock-music/unlock-music](https://github.com/unlock-music/unlock-music) - Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
 - [FunnyKun/NessusReportInChinese](https://github.com/FunnyKun/NessusReportInChinese) - 半自动化将 Nessus 英文报告（csv格式）生成中文 excel ，中文漏洞库已有700多条常见漏洞，后续再进一步加上新漏洞自动翻译，实现全自动化
 - [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
 - [gruhn/awesome-naming](https://github.com/gruhn/awesome-naming) - A curated list for when naming things is done right.
@@ -5597,6 +5597,7 @@
 - [presslabs/gitfs](https://github.com/presslabs/gitfs) - Version controlled file system
 - [k4yt3x/wg-meshconf](https://github.com/k4yt3x/wg-meshconf) - WireGuard full mesh configuration generator.
 - [spulec/uncurl](https://github.com/spulec/uncurl) - A library to convert curl requests to python-requests.
+- [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀 (Clone of https://github.com/public-apis/public-apis)
 - [kovidgoyal/kitty-themes](https://github.com/kovidgoyal/kitty-themes) - Themes for the kitty terminal emulator
 - [curly60e/pyblock](https://github.com/curly60e/pyblock) - Python Bitcoin block dashboard, transactions, send message to Space and more.
@@ -7295,7 +7296,7 @@
 - [code-mancers/invoker](https://github.com/code-mancers/invoker) - An awesome utility to manage all your processes in development environment
 - [eddiezane/lunchy](https://github.com/eddiezane/lunchy) - A friendly wrapper for launchctl
 - [zmoazeni/csscss](https://github.com/zmoazeni/csscss) - A CSS redundancy analyzer that analyzes redundancy.
-- [Homebrew/homebrew-services](https://github.com/Homebrew/homebrew-services) - 🚀 Manage background services with macOS' launchctl daemon manager
+- [Homebrew/homebrew-services](https://github.com/Homebrew/homebrew-services) - 🚀 Manage background services using the daemon manager launchctl on macOS or systemctl on Linux.
 - [oa414/objc-zen-book-cn](https://github.com/oa414/objc-zen-book-cn) - ObjC Zen Book 中文翻译
 - [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
 - [nomad/cupertino](https://github.com/nomad/cupertino) - CLI for the Apple Dev Center
@@ -8240,6 +8241,8 @@
 
 ## TypeScript 
 
+- [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows and Macos.
+- [fyears/remotely-save](https://github.com/fyears/remotely-save) - 
 - [planetscale/beam](https://github.com/planetscale/beam) - A simple message board for your organization or project
 - [Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner) - Image inpainting tool powered by [LaMa](https://github.com/saic-mdal/lama)
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
@@ -8415,7 +8418,6 @@
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library with the highest accuracy and stability.
 - [Sloaix/Gofi](https://github.com/Sloaix/Gofi) - Gofi (gəʊfi:) is a web file indexer written by golang
 - [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
-- [unlock-music/unlock-music](https://github.com/unlock-music/unlock-music) - Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
 - [burtonator/polar-bookshelf](https://github.com/burtonator/polar-bookshelf) - Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.
 - [SteveSandersonMS/WebWindow](https://github.com/SteveSandersonMS/WebWindow) - .NET Core library to open native OS windows containing web UI on Windows, Mac, and Linux. Experimental.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
