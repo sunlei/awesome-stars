@@ -543,6 +543,7 @@
 
 ## C# # 
 
+- [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
 - [nuke-build/nuke](https://github.com/nuke-build/nuke) - 🏗 The AKEless Build System for C#/.NET
 - [VShawn/PRemoteM](https://github.com/VShawn/PRemoteM) - Personal Remote Manager
 - [microsoft/reverse-proxy](https://github.com/microsoft/reverse-proxy) - A toolkit for developing high-performance HTTP reverse proxy applications.
@@ -602,6 +603,7 @@
 
 ## C++ 
 
+- [oxen-io/lokinet](https://github.com/oxen-io/lokinet) - Lokinet is an anonymous, decentralized and IP based overlay network for the internet.
 - [KDAB/hotspot](https://github.com/KDAB/hotspot) - The Linux perf GUI for performance analysis.
 - [xiaozhuai/odourless](https://github.com/xiaozhuai/odourless) - Odourless is a tool for preventing .DS_Store creation.
 - [KumarRobotics/kr_autonomous_flight](https://github.com/KumarRobotics/kr_autonomous_flight) - Autonomous flight system for GPS-denied quadrotors
@@ -879,6 +881,7 @@
 
 ## CSS 
 
+- [carsonip/hugo-theme-minos](https://github.com/carsonip/hugo-theme-minos) - A simple and retro styled Hugo theme ported from Hexo
 - [TIBCOSoftware/flogo](https://github.com/TIBCOSoftware/flogo) - Project Flogo is an open source ecosystem of opinionated  event-driven capabilities to simplify building efficient & modern serverless functions, microservices & edge apps.
 - [mgilangjanuar/teledrive](https://github.com/mgilangjanuar/teledrive) - The Google Drive/OneDrive/etc alternative using Telegram API
 - [adamschwartz/log](https://github.com/adamschwartz/log) - Console.log with style.
@@ -926,7 +929,6 @@
 - [Blankwonder/Surge-Manual](https://github.com/Blankwonder/Surge-Manual) - 
 - [emacs-china/Spacemacs-rocks](https://github.com/emacs-china/Spacemacs-rocks) - Happy Hacking Emacs & Spacemacs (Simplified Chinese)
 - [DesignRevision/shards-dashboard](https://github.com/DesignRevision/shards-dashboard) - 🔥A beautiful Bootstrap 4 admin dashboard templates pack.
-- [creativetimofficial/material-dashboard](https://github.com/creativetimofficial/material-dashboard) - Material Dashboard - Open Source Bootstrap 5 Material Design Admin
 - [zzzeyez/pecan](https://github.com/zzzeyez/pecan) - menubar for macOS
 - [awesome-tips/iOS-Tips](https://github.com/awesome-tips/iOS-Tips) - iOS知识小集
 - [ronggang/transmission-web-control](https://github.com/ronggang/transmission-web-control) - 一个 Transmission 浏览器管理界面。Transmission Web Control is a custom web UI.
@@ -1195,6 +1197,8 @@
 
 ## Go 
 
+- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
+- [zaquestion/lab](https://github.com/zaquestion/lab) - Lab wraps Git or Hub, making it simple to clone, fork, and interact with repositories on GitLab
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [smallstep/cli](https://github.com/smallstep/cli) - 🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.
 - [sahib/brig](https://github.com/sahib/brig) - File synchronization on top of ipfs with git like interface & web based UI
@@ -2772,6 +2776,10 @@
 
 ## JavaScript 
 
+- [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
+- [TejasQ/add-gitignore](https://github.com/TejasQ/add-gitignore) - An interactive CLI tool that adds a .gitignore to your projects.
+- [cezaraugusto/mklicense](https://github.com/cezaraugusto/mklicense) - CLI tool for generating Licenses. Easily.
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - ↯ Planet-scale performance testing for DevOps & SRE
 - [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) - Drafts your next release notes as pull requests are merged into master.
 - [huhu/rust-search-extension](https://github.com/huhu/rust-search-extension) - 🦀 The ultimate search extension for Rust
 - [AntSwordProject/antSword](https://github.com/AntSwordProject/antSword) - 中国蚁剑是一款跨平台的开源网站管理工具。AntSword is a cross-platform website management toolkit.
@@ -2787,6 +2795,7 @@
 - [digitalbazaar/forge](https://github.com/digitalbazaar/forge) - A native implementation of TLS in Javascript and tools to write crypto-based and network-heavy webapps
 - [windowjs/windowjs](https://github.com/windowjs/windowjs) - Window.js is an open-source Javascript runtime for desktop graphics programming.
 - [wensonsmith/YoudaoTranslator](https://github.com/wensonsmith/YoudaoTranslator) - Alfred Youdao Translate Workflow
+- [withastro/astro](https://github.com/withastro/astro) - Build fast websites, faster. 🚀🧑‍🚀✨
 - [ChainSafe/web3.js](https://github.com/ChainSafe/web3.js) - Ethereum JavaScript API
 - [shenruisi/Stay](https://github.com/shenruisi/Stay) - Stay is a local userscript manager and an extension sample for Safari on iOS/iPadOS.
 - [Tencent/tdesign](https://github.com/Tencent/tdesign) - Enterprise Design System
@@ -3474,7 +3483,6 @@
 - [rishabhp/bideo.js](https://github.com/rishabhp/bideo.js) - Fullscreen HTML5 Background Video for the Web.
 - [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 - [guillaumepotier/Parsley.js](https://github.com/guillaumepotier/Parsley.js) - Validate your forms, frontend, without writing a single line of javascript
-- [jupyter/notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
 - [DKirwan/calendar-heatmap](https://github.com/DKirwan/calendar-heatmap) - A d3 heatmap for representing time series data similar to github's contribution chart
 - [electron-userland/devtron](https://github.com/electron-userland/devtron) - [LOOKING FOR MAINTAINERS] An Electron DevTools Extension
 - [willfarrell/alfred-workflows](https://github.com/willfarrell/alfred-workflows) - Alfred Workflows for Developers
@@ -4087,6 +4095,7 @@
 - [babylonhealth/fastText_multilingual](https://github.com/babylonhealth/fastText_multilingual) - Multilingual word vectors in 78 languages
 - [tmbdev/clstm](https://github.com/tmbdev/clstm) - A small C++ implementation of LSTM networks, focused on OCR.
 - [rainyear/pytips](https://github.com/rainyear/pytips) - Useful Python tips!
+- [jupyter/notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
 - [REMitchell/python-scraping](https://github.com/REMitchell/python-scraping) - Code samples from the book Web Scraping with Python http://shop.oreilly.com/product/0636920034391.do
 - [ocropus/ocropy](https://github.com/ocropus/ocropy) - Python-based tools for document analysis and OCR
 - [rasbt/python_reference](https://github.com/rasbt/python_reference) - Useful functions, tutorials, and other Python-related things
@@ -4095,6 +4104,7 @@
 
 ## Kotlin 
 
+- [Waboodoo/HTTP-Shortcuts](https://github.com/Waboodoo/HTTP-Shortcuts) - Android app to create home screen shortcuts that trigger arbitrary HTTP requests
 - [seemoo-lab/AirGuard](https://github.com/seemoo-lab/AirGuard) - Protect yourself from being tracked 🌍 by AirTags 🏷 and Find My accessories 📍
 - [rosuH/EasyWatermark](https://github.com/rosuH/EasyWatermark) - 🔒 🖼 Securely, easily add a watermark to your sensitive photos. 安全、简单地为你的敏感照片添加水印，防止被小人泄露、利用
 - [spotify/ruler](https://github.com/spotify/ruler) - Gradle plugin which helps you analyze the size of your Android apps.
@@ -4531,6 +4541,7 @@
 
 ## Others 
 
+- [sunlei/awesome-tools](https://github.com/sunlei/awesome-tools) - 我常用或收集的工具
 - [LSPosed/MagiskOnWSA](https://github.com/LSPosed/MagiskOnWSA) - Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android)
 - [krol3/container-security-checklist](https://github.com/krol3/container-security-checklist) - Checklist for container security - devsecops practices
 - [liuhuanyong/DomainWordsDict](https://github.com/liuhuanyong/DomainWordsDict) - DomainWordsDict,  Chinese words dict that contains more than 68 domains, which can be used as text classification、knowledge enhance task。涵盖68个领域、共计916万词的专业词典知识库，可用于文本分类、知识增强、领域词汇库扩充等自然语言处理应用。
@@ -4622,7 +4633,6 @@
 - [jorgebucaran/cookbook.fish](https://github.com/jorgebucaran/cookbook.fish) - Tips and recipes for Fish, from shell to plate. 🍣
 - [EdgeSecurityTeam/Vulnerability](https://github.com/EdgeSecurityTeam/Vulnerability) - 此项目将不定期从棱角社区对外进行公布一些最新漏洞。
 - [meirwah/awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines) - A curated list of awesome open source workflow engines
-- [sunlei/awesome-tools](https://github.com/sunlei/awesome-tools) - 我常用或收集的工具
 - [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
 - [liuhuanyong/ChineseDiachronicCorpus](https://github.com/liuhuanyong/ChineseDiachronicCorpus) - ChineseDiachronicCorpus，中文历时语料库，横跨六十余年，包括腾讯历时新闻2000-2016，人民日报历时语料1946-2003，参考消息历时语料1957-2002。基于历时流通语料库，可用于历时语言变化计算、语言监测、社会文化变迁研究提供基础性的语料支持。
 - [v2fly/v2ray-step-by-step](https://github.com/v2fly/v2ray-step-by-step) - This repo is a fork of ToutyRater/v2ray-guide, we aim to provide a new step-by-step guide of v2ray
@@ -5458,6 +5468,7 @@
 
 ## Python 
 
+- [Blobbackup/Blobbackup](https://github.com/Blobbackup/Blobbackup) - Private, Secure Computer Backups
 - [Mara-Li/mkdocs_obsidian_publish](https://github.com/Mara-Li/mkdocs_obsidian_publish) - Publish your obsidian vault through a python script
 - [ceccopierangiolieugenio/pyTermTk](https://github.com/ceccopierangiolieugenio/pyTermTk) - Python Terminal Toolkit
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations during build-time for Terraform, CloudFormation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
@@ -7371,6 +7382,7 @@
 
 ## Rust 
 
+- [out-of-cheese-error/the-way](https://github.com/out-of-cheese-error/the-way) - A code snippets manager for your terminal.
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
 - [trishume/syntect](https://github.com/trishume/syntect) - Rust library for syntax highlighting using Sublime Text syntax definitions.
 - [audulus/rui](https://github.com/audulus/rui) - Experimental Rust UI library
@@ -7594,6 +7606,7 @@
 - [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documention with built-in search.
 - [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
 - [olOwOlo/hugo-theme-even](https://github.com/olOwOlo/hugo-theme-even) - 🚀 A super concise theme for Hugo https://hugo-theme-even.netlify.app
+- [creativetimofficial/material-dashboard](https://github.com/creativetimofficial/material-dashboard) - Material Dashboard - Open Source Bootstrap 5 Material Design Admin
 - [ahonn/hexo-theme-even](https://github.com/ahonn/hexo-theme-even) - :rocket:  A super concise theme for Hexo
 - [Hacker0x01/hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
 - [snack-ui/snack](https://github.com/snack-ui/snack) - 🍱 A minimal CSS framework for web.
@@ -7635,6 +7648,7 @@
 
 ## Shell 
 
+- [zsh-users/zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search) - 🐠 ZSH port of Fish history search (up arrow)
 - [fscarmen/warp](https://github.com/fscarmen/warp) - WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本
 - [mklement0/fileicon](https://github.com/mklement0/fileicon) - macOS CLI for managing custom icons for files and folders
 - [gitwatch/gitwatch](https://github.com/gitwatch/gitwatch) - Watch a file or folder and automatically commit changes to a git repo easily.
@@ -8255,6 +8269,7 @@
 
 ## TypeScript 
 
+- [purocean/yn](https://github.com/purocean/yn) - A Hackable Markdown Note Application for Programmers. Version control, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, plug-in, and macro replacement.
 - [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows and Macos.
 - [fyears/remotely-save](https://github.com/fyears/remotely-save) - 
 - [planetscale/beam](https://github.com/planetscale/beam) - A simple message board for your organization or project
@@ -8272,7 +8287,6 @@
 - [justmemos/memos](https://github.com/justmemos/memos) - An open source, self-hosted alternative to flomo.
 - [noya-app/studio721](https://github.com/noya-app/studio721) - Free tools for NFT creators
 - [netless-io/flat](https://github.com/netless-io/flat) - Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
-- [withastro/astro](https://github.com/withastro/astro) - Build fast websites, faster. 🚀🧑‍🚀✨
 - [stevenlei/spacingjs](https://github.com/stevenlei/spacingjs) - A JavaScript utility for measuring the spacing between elements on webpage.
 - [zh-lx/pinyin-pro](https://github.com/zh-lx/pinyin-pro) - 中文转拼音、拼音音调、拼音声母、拼音韵母、多音字拼音、姓氏拼音、拼音匹配
 - [privatenumber/minification-benchmarks](https://github.com/privatenumber/minification-benchmarks) - 🏃‍♂️🏃‍♀️🏃 JS minification benchmarks: babel-minify, esbuild, terser, uglify-js, swc, google closure compiler, tdewolff/minify
@@ -8336,7 +8350,7 @@
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [johnlindquist/kit](https://github.com/johnlindquist/kit) - Script Kit. Automate Anything.
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
-- [snyk/snyk](https://github.com/snyk/snyk) - Snyk CLI scans and monitors your projects for security vulnerabilities.
+- [snyk/cli](https://github.com/snyk/cli) - Snyk CLI scans and monitors your projects for security vulnerabilities.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite & MongoDB (Preview)
 - [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
 - [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌 一款简洁的自托管评论系统 | A Selfhosted Comment System | Golang + TypeScript + Docker
@@ -8598,6 +8612,8 @@
 
 ## Vala 
 
+- [bitstower/markets](https://github.com/bitstower/markets) - A stock, currency and cryptocurrency tracker
+- [liferooter/textpieces](https://github.com/liferooter/textpieces) - Quick text processing
 - [teejee2008/timeshift](https://github.com/teejee2008/timeshift) - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.
 - [alainm23/planner](https://github.com/alainm23/planner) - Task manager with Todoist support designed for GNU/Linux 🚀
 
