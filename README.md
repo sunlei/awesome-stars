@@ -193,7 +193,7 @@
 - [hunterli/remserial](https://github.com/hunterli/remserial) - bridge between socket and serial port
 - [yarrick/iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel
 - [IanHarvey/bluepy](https://github.com/IanHarvey/bluepy) - Python interface to Bluetooth LE on Linux
-- [xiaorouji/openwrt-passwall](https://github.com/xiaorouji/openwrt-passwall) - Special circumstances, stop open.
+- [xiaorouji/openwrt-passwall](https://github.com/xiaorouji/openwrt-passwall) - 
 - [littlefs-project/littlefs](https://github.com/littlefs-project/littlefs) - A little fail-safe filesystem designed for microcontrollers
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [ColdGrub1384/Pyto](https://github.com/ColdGrub1384/Pyto) - Python IDE for iOS with NumPy, Matplotlib, Pandas, SciPy and SciKit-Learn
@@ -609,7 +609,7 @@
 - [oxen-io/lokinet](https://github.com/oxen-io/lokinet) - Lokinet is an anonymous, decentralized and IP based overlay network for the internet.
 - [KDAB/hotspot](https://github.com/KDAB/hotspot) - The Linux perf GUI for performance analysis.
 - [xiaozhuai/odourless](https://github.com/xiaozhuai/odourless) - Odourless is a tool for preventing .DS_Store creation.
-- [KumarRobotics/kr_autonomous_flight](https://github.com/KumarRobotics/kr_autonomous_flight) - Autonomous flight system for GPS-denied quadrotors
+- [KumarRobotics/kr_autonomous_flight](https://github.com/KumarRobotics/kr_autonomous_flight) - KR (KumarRobotics) autonomous flight system for GPS-denied quadrotors
 - [midisec/BypassAnti-Virus](https://github.com/midisec/BypassAnti-Virus) - 免杀姿势学习、记录、复现。
 - [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [roq-trading/roq-api](https://github.com/roq-trading/roq-api) - The Roq C++20 API used for Live Cryptocurrency Algorithmic and High-Frequency Trading as well as for Back-Testing and Historical Simulation
@@ -2779,7 +2779,7 @@
 
 ## JavaScript 
 
-- [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config) - File Nesting Config for VS Code
+- [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config) - Config of File Nesting for VS Code
 - [UnblockNeteaseMusic/server](https://github.com/UnblockNeteaseMusic/server) - Revive unavailable songs for Netease Cloud Music (Refactored & Enhanced version)
 - [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
 - [TejasQ/add-gitignore](https://github.com/TejasQ/add-gitignore) - An interactive CLI tool that adds a .gitignore to your projects.
@@ -2793,7 +2793,7 @@
 - [jsososo/QQMusicApi](https://github.com/jsososo/QQMusicApi) - 基于 Express + Axios 的 QQ音乐接口 nodejs 版
 - [Peng-YM/Sub-Store](https://github.com/Peng-YM/Sub-Store) - Advanced Subscription Manager for QX, Loon, Surge and Clash!
 - [sql-js/sql.js](https://github.com/sql-js/sql.js) - A javascript library to run SQLite on the web.
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese).
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
 - [soheilpro/mailwind](https://github.com/soheilpro/mailwind) - Use Tailwind CSS to design HTML emails.
 - [11ty/eleventy](https://github.com/11ty/eleventy) - A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.
@@ -4263,6 +4263,7 @@
 
 ## Nim 
 
+- [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [c-blake/cligen](https://github.com/c-blake/cligen) - Nim library to infer/generate command-line-interfaces / option / argument parsing; Docs At
 
 ## Nunjucks 
@@ -4800,7 +4801,7 @@
 - [Escapingbug/awesome-browser-exploit](https://github.com/Escapingbug/awesome-browser-exploit) - awesome list of browser exploitation tutorials
 - [jonatasbaldin/awesome-awesome-awesome](https://github.com/jonatasbaldin/awesome-awesome-awesome) - Awesome list of repositories of awesome lists 🤷‍♀️
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
-- [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 创刊于 2015 年，坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。
+- [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [TommyLau/docker-atlassian](https://github.com/TommyLau/docker-atlassian) - Atlassian products in Docker
 - [guardrailsio/awesome-golang-security](https://github.com/guardrailsio/awesome-golang-security) - Awesome Golang Security resources 🕶🔐
@@ -5336,7 +5337,7 @@
 - [RaymiiOrg/ssl-decoder](https://github.com/RaymiiOrg/ssl-decoder) - Simple PHP script which decodes an SSL connection and displays the information.
 - [mledoze/countries](https://github.com/mledoze/countries) - World countries in JSON, CSV, XML and Yaml. Any help is welcome!
 - [brandonwamboldt/utilphp](https://github.com/brandonwamboldt/utilphp) - util.php is a collection of useful functions and snippets that you need or could use every day, designed to avoid conflicts with existing projects
-- [flarum/core](https://github.com/flarum/core) - Simple forum software for building great communities.
+- [flarum/framework](https://github.com/flarum/framework) - Simple forum software for building great communities.
 - [Pr0x13/iDict](https://github.com/Pr0x13/iDict) - iCloud Apple iD BruteForcer
 - [nodesocket/dogpatch](https://github.com/nodesocket/dogpatch) - An HTTP API testing framework, written in PHP using curl.
 - [isohuntto/openbay](https://github.com/isohuntto/openbay) - 
@@ -5476,6 +5477,7 @@
 
 ## Python 
 
+- [graphql-python/graphene](https://github.com/graphql-python/graphene) - GraphQL framework for Python
 - [royorel/StyleSDF](https://github.com/royorel/StyleSDF) - 
 - [intel/cve-bin-tool](https://github.com/intel/cve-bin-tool) - This tool scans for a number of common, vulnerable components (openssl, libpng, libxml2, expat and a few others) to let you know if your system includes common libraries with known vulnerabilities.
 - [Blobbackup/Blobbackup](https://github.com/Blobbackup/Blobbackup) - Private, Secure Computer Backups
@@ -5487,7 +5489,7 @@
 - [gkbrk/slowloris](https://github.com/gkbrk/slowloris) - Low bandwidth DoS tool. Slowloris rewrite in Python.
 - [palahsu/DDoS-Ripper](https://github.com/palahsu/DDoS-Ripper) - DDos Ripper a Distributable Denied-of-Service (DDOS) attack server that cuts off targets or surrounding infrastructure in a flood of Internet traffic
 - [pytorch/torchrec](https://github.com/pytorch/torchrec) - Pytorch domain library for recommendation systems
-- [MHProDev/MHDDoS](https://github.com/MHProDev/MHDDoS) - Best DDoS Attack Script  Python3, Cyber Attack With 46 Methods
+- [MHProDev/MHDDoS](https://github.com/MHProDev/MHDDoS) - Best DDoS Attack Script  Python3, Cyber Attack With 50 Methods
 - [slingamn/mureq](https://github.com/slingamn/mureq) - Single-file alternative to python-requests
 - [qq547276542/Agriculture_KnowledgeGraph](https://github.com/qq547276542/Agriculture_KnowledgeGraph) - 农业知识图谱(AgriKG)：农业领域的信息检索，命名实体识别，关系抽取，智能问答，辅助决策
 - [taojy123/KeymouseGo](https://github.com/taojy123/KeymouseGo) - 类似按键精灵的鼠标键盘录制和自动化操作 模拟点击和键入 | automate mouse clicks and keyboard input
@@ -5631,7 +5633,7 @@
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀 (Clone of https://github.com/public-apis/public-apis)
 - [kovidgoyal/kitty-themes](https://github.com/kovidgoyal/kitty-themes) - Themes for the kitty terminal emulator
-- [curly60e/pyblock](https://github.com/curly60e/pyblock) - Python Bitcoin block dashboard, transactions, send message to Space and more.
+- [curly60e/pyblock](https://github.com/curly60e/pyblock) - ℙ𝕪𝔹𝕃𝕆ℂ𝕂 𝕚𝕥𝕤 𝕒 𝔹𝕚𝕥𝕔𝕠𝕚𝕟 𝔻𝕒𝕤𝕙𝕓𝕠𝕒𝕣𝕕 𝕨𝕚𝕥𝕙 ℂ𝕪𝕡𝕙𝕖𝕣𝕡𝕦𝕟𝕜 𝕒𝕖𝕤𝕥𝕙𝕖𝕥𝕚𝕔.
 - [seligman/aws-ip-ranges](https://github.com/seligman/aws-ip-ranges) - Tracking the history and size of AWS's ip-ranges.json file
 - [unit8co/darts](https://github.com/unit8co/darts) - A python library for easy manipulation and forecasting of time series.
 - [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end
@@ -5698,13 +5700,12 @@
 - [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
 - [w5teams/w5](https://github.com/w5teams/w5) - Security Orchestration, Automation and Response (SOAR) Platform. 安全编排与自动化响应平台，无需编写代码的安全自动化，使用 SOAR 可以让团队工作更加高效
 - [pimutils/todoman](https://github.com/pimutils/todoman) - ✅ A simple, standards-based, cli todo (aka: task) manager.
-- [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) - Blind&Invisible Watermark （图片盲水印，提取水印无须原图！）
+- [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) - Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！
 - [liuhuanyong/ChineseSemanticKB](https://github.com/liuhuanyong/ChineseSemanticKB) - ChineseSemanticKB,chinese semantic knowledge base, 面向中文处理的12类、百万规模的语义常用词典，包括34万抽象语义库、34万反义语义库、43万同义语义库等，可支持句子扩展、转写、事件抽象与泛化等多种应用场景。
 - [zhzyker/exphub](https://github.com/zhzyker/exphub) - Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat、Nexus、Solr、Jboss、Drupal的漏洞利用脚本，最新添加CVE-2020-14882、CVE-2020-11444、CVE-2020-10204、CVE-2020-10199、CVE-2020-1938、CVE-2020-2551、CVE-2020-2555、CVE-2020-2883、CVE-2019-17558、CVE-2019-6340
 - [lux-org/lux](https://github.com/lux-org/lux) - Automatically visualize your pandas dataframe via a single print! 📊 💡
 - [ZENALC/algobot](https://github.com/ZENALC/algobot) - Cryptocurrency trading bot with a graphical user interface with support for simulations, backtests, optimizations, and running live bots.
 - [Overv/outrun](https://github.com/Overv/outrun) - Execute a local command using the processing power of another Linux machine.
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [holoviz/datashader](https://github.com/holoviz/datashader) - Quickly and accurately render even the largest data.
 - [PyImageSearch/imutils](https://github.com/PyImageSearch/imutils) - A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python.
 - [OrkoHunter/keep](https://github.com/OrkoHunter/keep) - A Meta CLI toolkit : Personal shell command keeper and snippets manager
@@ -6117,6 +6118,7 @@
 - [smarkets/marge-bot](https://github.com/smarkets/marge-bot) - A merge-bot for GitLab
 - [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
 - [google/pytype](https://github.com/google/pytype) - A static type analyzer for Python code
+- [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
 - [encode/requests-async](https://github.com/encode/requests-async) - async-await support for `requests`. ✨ 🍰 ✨
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [toabctl/jiracli](https://github.com/toabctl/jiracli) - Simple command line interface for Jira
@@ -7392,7 +7394,7 @@
 
 ## Rust 
 
-- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Headless Business Intelligence
+- [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Headless Business Intelligence for Building Data Applications
 - [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) - An opinionated Lua code formatter
 - [out-of-cheese-error/the-way](https://github.com/out-of-cheese-error/the-way) - A code snippets manager for your terminal.
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
@@ -8365,6 +8367,7 @@
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [johnlindquist/kit](https://github.com/johnlindquist/kit) - Script Kit. Automate Anything.
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [snyk/cli](https://github.com/snyk/cli) - Snyk CLI scans and monitors your projects for security vulnerabilities.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite & MongoDB (Preview)
 - [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
@@ -8485,7 +8488,6 @@
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-styled editor with clean JSON output
 - [Raathigesh/majestic](https://github.com/Raathigesh/majestic) - ⚡ Zero config GUI for Jest
-- [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
 - [zhihu/griffith](https://github.com/zhihu/griffith) - A React-based web video player
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [Dreamacro/clash-dashboard](https://github.com/Dreamacro/clash-dashboard) - web port of clash
