@@ -605,6 +605,7 @@
 
 ## C++ 
 
+- [jathu/fx](https://github.com/jathu/fx) - fx is a workspace tool manager. It allows you to create consistent, discoverable, language-neutral and developer friendly command line tools.
 - [skyline-emu/skyline](https://github.com/skyline-emu/skyline) - Run Nintendo Switch homebrew & games on your Android device!
 - [oxen-io/lokinet](https://github.com/oxen-io/lokinet) - Lokinet is an anonymous, decentralized and IP based overlay network for the internet.
 - [KDAB/hotspot](https://github.com/KDAB/hotspot) - The Linux perf GUI for performance analysis.
@@ -1199,6 +1200,8 @@
 
 ## Go 
 
+- [libsgh/PanIndex](https://github.com/libsgh/PanIndex) - 网盘目录列表，目前支持天翼云、teambition盘、阿里云盘、OneDrive等
+- [rumsystem/quorum](https://github.com/rumsystem/quorum) - RUM: The internet alternatives
 - [netlify/binrc](https://github.com/netlify/binrc) - Binrc is a command line application to manage different versions of binaries stored on GitHub releases.
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [zaquestion/lab](https://github.com/zaquestion/lab) - Lab wraps Git or Hub, making it simple to clone, fork, and interact with repositories on GitLab
@@ -1691,7 +1694,7 @@
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
 - [gorilla/handlers](https://github.com/gorilla/handlers) - A collection of useful middleware for Go HTTP services & web applications 🛃
-- [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
+- [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
 - [Jinnrry/getAwayBSG](https://github.com/Jinnrry/getAwayBSG) - 逃离北上广
 - [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
@@ -2548,6 +2551,7 @@
 
 ## Haskell 
 
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - 🚀  SimpleX - the first chat platform that is 100% private by design - iOS and Android apps are released 📱!
 - [feramhq/Perspec](https://github.com/feramhq/Perspec) - Scriptable desktop app to correct the perspective of images
 - [jaspervdj/hakyll](https://github.com/jaspervdj/hakyll) - A static website compiler library in Haskell
 - [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
@@ -2779,6 +2783,8 @@
 
 ## JavaScript 
 
+- [tengbao/vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
+- [bojue/BaseMap](https://github.com/bojue/BaseMap) - IDC管理2.5D底图绘制工具(Vue)
 - [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config) - Config of File Nesting for VS Code
 - [UnblockNeteaseMusic/server](https://github.com/UnblockNeteaseMusic/server) - Revive unavailable songs for Netease Cloud Music (Refactored & Enhanced version)
 - [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
@@ -4549,6 +4555,8 @@
 
 ## Others 
 
+- [FlintyLemming/SurgeHandbook](https://github.com/FlintyLemming/SurgeHandbook) - Surge 官方手册的汉化
+- [darbra/sperm](https://github.com/darbra/sperm) - 浏览过的精彩逆向文章汇总，值得一看
 - [J0o1ey/BountyHunterInChina](https://github.com/J0o1ey/BountyHunterInChina) - 重生之我是赏金猎人系列，分享自己和团队在SRC、项目实战漏洞测试过程中的有趣案例
 - [sunlei/awesome-tools](https://github.com/sunlei/awesome-tools) - 我常用或收集的工具
 - [LSPosed/MagiskOnWSA](https://github.com/LSPosed/MagiskOnWSA) - Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android)
@@ -5477,6 +5485,8 @@
 
 ## Python 
 
+- [blankly-finance/blankly](https://github.com/blankly-finance/blankly) - 🚀 💸  Easily build, backtest and deploy your algo in just a few lines of code. Trade stocks, cryptos, and forex across exchanges w/ one package.
+- [EverythingSuckz/TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot) - Stream Telegram files to web
 - [graphql-python/graphene](https://github.com/graphql-python/graphene) - GraphQL framework for Python
 - [royorel/StyleSDF](https://github.com/royorel/StyleSDF) - 
 - [intel/cve-bin-tool](https://github.com/intel/cve-bin-tool) - This tool scans for a number of common, vulnerable components (openssl, libpng, libxml2, expat and a few others) to let you know if your system includes common libraries with known vulnerabilities.
@@ -7394,6 +7404,8 @@
 
 ## Rust 
 
+- [tikv/minstant](https://github.com/tikv/minstant) - Performant time measuring in Rust
+- [tikv/minitrace-rust](https://github.com/tikv/minitrace-rust) - Extremely fast tracing library for Rust
 - [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Headless Business Intelligence for Building Data Applications
 - [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) - An opinionated Lua code formatter
 - [out-of-cheese-error/the-way](https://github.com/out-of-cheese-error/the-way) - A code snippets manager for your terminal.
@@ -8049,6 +8061,7 @@
 
 ## Swift 
 
+- [iCepa/iCepa](https://github.com/iCepa/iCepa) - iOS system-wide VPN based Tor client
 - [SailyTeam/Saily](https://github.com/SailyTeam/Saily) - Modern. Fast. Beautiful.
 - [Lakr233/Rayon](https://github.com/Lakr233/Rayon) - yet another SSH machine manager
 - [mandrigin/AlfredSwitchWindows](https://github.com/mandrigin/AlfredSwitchWindows) - An application for using in Alfred workflow to enumerate and switch between windows on OSX.
@@ -8283,6 +8296,9 @@
 
 ## TypeScript 
 
+- [webtoon/psd](https://github.com/webtoon/psd) - Blazing fast, zero-dependency PSD parser for the web and Node.js
+- [fingerprintjs/blog-nojs-fingerprint-demo](https://github.com/fingerprintjs/blog-nojs-fingerprint-demo) - A demo for the no-JavaScript fingerprinting article
+- [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [ospfranco/sol](https://github.com/ospfranco/sol) - A macOS global command palette. Raycast/Spotlight alternative
 - [gregjacobs/Autolinker.js](https://github.com/gregjacobs/Autolinker.js) - Utility to Automatically Link URLs, Email Addresses, Phone Numbers, Twitter handles, and Hashtags in a given block of text/HTML
 - [purocean/yn](https://github.com/purocean/yn) - A Hackable Markdown Note Application for Programmers. Version control, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, plug-in, and macro replacement.
@@ -8329,7 +8345,7 @@
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [arco-design/arco-design](https://github.com/arco-design/arco-design) - A comprehensive React UI components library based on Arco Design
 - [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and redeem promotional free games from the Epic Games Store. Handles login and checkout captchas. Runs in Docker.
-- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Kubernetes and container management on the desktop
+- [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Container Management and Kubernetes on the Desktop
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [cloudflare/miniflare](https://github.com/cloudflare/miniflare) - 🔥 Fully-local simulator for Cloudflare Workers
 - [facebook/flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
