@@ -287,6 +287,7 @@
 - [zlgopen/awtk](https://github.com/zlgopen/awtk) - AWTK = Toolkit AnyWhere(为嵌入式、手机和PC打造的通用GUI系统)
 - [jedisct1/dsvpn](https://github.com/jedisct1/dsvpn) - A Dead Simple VPN.
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
+- [zpoint/CPython-Internals](https://github.com/zpoint/CPython-Internals) - Dive into CPython internals, trying to illustrate every detail of CPython implementation
 - [symisc/unqlite](https://github.com/symisc/unqlite) - An Embedded NoSQL, Transactional Database Engine
 - [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) - xrdp: an open source RDP server
 - [zevv/duc](https://github.com/zevv/duc) - Dude, where are my bytes: Duc, a library and suite of tools for inspecting disk usage
@@ -680,7 +681,7 @@
 - [klzgrad/naiveproxy](https://github.com/klzgrad/naiveproxy) - Make a fortune quietly
 - [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
 - [FSecureLABS/C3](https://github.com/FSecureLABS/C3) - Custom Command and Control (C3). A framework for rapid prototyping of custom C2 channels, while still providing integration with existing offensive toolkits.
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 9.2.0.42614, 3.3.5 = 3.3.5a.12340)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 9.2.0.42698, 3.3.5 = 3.3.5a.12340)
 - [TonyChen56/WeChatRobot](https://github.com/TonyChen56/WeChatRobot) - PC版微信机器人 微信Api、WeChatApis.dll、微信聊天机器人 python微信api 微信接口 微信数据库解密
 - [everdox/InfinityHook](https://github.com/everdox/InfinityHook) - Hook system calls, context switches, page faults and more.
 - [cycfi/elements](https://github.com/cycfi/elements) - Elements C++ GUI library
@@ -1200,6 +1201,8 @@
 
 ## Go 
 
+- [loggie-io/loggie](https://github.com/loggie-io/loggie) - A lightweight, cloud-native data transfer agent and aggregator
+- [sysdream/ligolo](https://github.com/sysdream/ligolo) - Reverse Tunneling made easy for pentesters, by pentesters https://sysdream.com/
 - [libsgh/PanIndex](https://github.com/libsgh/PanIndex) - 网盘目录列表，目前支持天翼云、teambition盘、阿里云盘、OneDrive等
 - [rumsystem/quorum](https://github.com/rumsystem/quorum) - RUM: The internet alternatives
 - [netlify/binrc](https://github.com/netlify/binrc) - Binrc is a command line application to manage different versions of binaries stored on GitHub releases.
@@ -2261,6 +2264,7 @@
 
 ## HTML 
 
+- [EthTx/ethtx_ce](https://github.com/EthTx/ethtx_ce) - Ethereum transaction decoder (community version).
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [damoeb/rss-proxy](https://github.com/damoeb/rss-proxy) - RSS-proxy allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure.
 - [tb0hdan/domains](https://github.com/tb0hdan/domains) - World’s single largest Internet domains dataset
@@ -2551,6 +2555,7 @@
 
 ## Haskell 
 
+- [dapphub/dapptools](https://github.com/dapphub/dapptools) - Dapp, Seth, Hevm, and more
 - [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - 🚀  SimpleX - the first chat platform that is 100% private by design - iOS and Android apps are released 📱!
 - [feramhq/Perspec](https://github.com/feramhq/Perspec) - Scriptable desktop app to correct the perspective of images
 - [jaspervdj/hakyll](https://github.com/jaspervdj/hakyll) - A static website compiler library in Haskell
@@ -3135,6 +3140,7 @@
 - [nhn/tui.image-editor](https://github.com/nhn/tui.image-editor) - 🍞🎨 Full-featured photo image editor using canvas. It is really easy, and it comes with great filters.
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
 - [klaussinani/qoa](https://github.com/klaussinani/qoa) - Minimal interactive command-line prompts
+- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [postlight/mercury-parser](https://github.com/postlight/mercury-parser) - 📜 Extract meaningful content from the chaos of a web page
 - [instantpage/instant.page](https://github.com/instantpage/instant.page) - Make your site’s pages instant in 1 minute and improve your conversion rate by 1%
 - [myliang/x-spreadsheet](https://github.com/myliang/x-spreadsheet) - A web-based JavaScript（canvas） spreadsheet
@@ -3748,7 +3754,7 @@
 - [nxxcxx/Neural-Network](https://github.com/nxxcxx/Neural-Network) - Abstract visualization of biological neural network
 - [Aerolab/midnight.js](https://github.com/Aerolab/midnight.js) - Switch your nav's design on the fly
 - [stephen-hardy/xlsx.js](https://github.com/stephen-hardy/xlsx.js) - XLSX.js is a JavaScript library for converting the data in base64 XLSX files into JavaScript objects - and back! Please note that this library is licensed under the Microsoft Office Extensible File License - a license NOT approved by the OSI. While this license is based off of the MS-PL, which is OSI-approved, there are significant differences.
-- [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - :leaves: JavaScript library for mobile-friendly interactive maps
+- [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
 - [travishorn/fake-identity](https://github.com/travishorn/fake-identity) - Generate random identity objects including name, address, etc. This may be useful if you are trying to fill your application with random personal data.
 - [chieffancypants/angular-loading-bar](https://github.com/chieffancypants/angular-loading-bar) - A fully automatic loading / progress bar for your angular apps.
 - [vladikoff/chromeos-apk](https://github.com/vladikoff/chromeos-apk) - ☢️  Run Android Apps in Chrome OS OR Chrome in OS X, Linux and Windows.
@@ -5485,6 +5491,7 @@
 
 ## Python 
 
+- [EthTx/ethtx](https://github.com/EthTx/ethtx) - Python package with core transaction decoding functions.
 - [blankly-finance/blankly](https://github.com/blankly-finance/blankly) - 🚀 💸  Easily build, backtest and deploy your algo in just a few lines of code. Trade stocks, cryptos, and forex across exchanges w/ one package.
 - [EverythingSuckz/TG-FileStreamBot](https://github.com/EverythingSuckz/TG-FileStreamBot) - Stream Telegram files to web
 - [graphql-python/graphene](https://github.com/graphql-python/graphene) - GraphQL framework for Python
@@ -6075,7 +6082,6 @@
 - [itamarst/eliot](https://github.com/itamarst/eliot) - Eliot: the logging system that tells you *why* it happened
 - [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
-- [zpoint/CPython-Internals](https://github.com/zpoint/CPython-Internals) - Dive into CPython internals, trying to illustrate every detail of CPython implementation
 - [fighting41love/cocoNLP](https://github.com/fighting41love/cocoNLP) - A Chinese information extraction tool.
 - [rainx/pytdx](https://github.com/rainx/pytdx) - Python tdx数据接口
 - [imhuster/funNLP](https://github.com/imhuster/funNLP) - 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术系列报告、自然语言生成、NLU太难了系列、自动对联数据及机器人、用户名黑名单列表、罪名法务名词及分类模型、微信公众号语料、cs224n深度学习自然语言处理课程、中文手写汉字识别、中文自然语言处理 语料/数据集、变量命名神器、分词语料库+代码、任务型对话英文数据集、ASR 语音数据集 + 基于深度学习的中文语音识别系统、笑声检测器、Microsoft多语言数字/单位/如日期时间识别包、中华新华字典数据库及api(包括常用歇后语、成语、词语和汉字)、文档图谱自动生成、SpaCy 中文模型、Common Voice语音识别数据集新版、神经网络关系抽取、基于bert的命名实体识别、关键词(Keyphrase)抽取包pke、基于医疗领域知识图谱的问答系统、基于依存句法与语义角色标注的事件三元组抽取、依存句法分析4万句高质量标注数据、cnocr：用来做中文OCR的Python3包、中文人物关系知识图谱项目、中文nlp竞赛项目及代码汇总、中文字符数据、speech-aligner: 从“人声语音”及其“语言文本”产生音素级别时间对齐标注的工具、AmpliGraph: 知识图谱表示学习(Python)库：知识图谱概念链接预测、Scattertext 文本可视化(python)、语言/知识表示工具：BERT & ERNIE、中文对比英文自然语言处理NLP的区别综述、Synonyms中文近义词工具包、HarvestText领域自适应文本挖掘工具（新词发现-情感分析-实体链接等）、word2word：(Python)方便易用的多语言词-词对集：62种语言/3,564个多语言对、语音识别语料生成工具：从具有音频/字幕的在线视频创建自动语音识别(ASR)语料库、构建医疗实体识别的模型（包含词典和语料标注）、单文档非监督的关键词抽取、Kashgari中使用gpt-2语言模型、开源的金融投资数据提取工具、文本自动摘要库TextTeaser: 仅支持英文、人民日报语料处理工具集、一些关于自然语言的基本模型、基于14W歌曲知识库的问答尝试--功能包括歌词接龙and已知歌词找歌曲以及歌曲歌手歌词三角关系的问答、基于Siamese bilstm模型的相似句子判定模型并提供训练数据集和测试数据集、用Transformer编解码模型实现的根据Hacker News文章标题自动生成评论、用BERT进行序列标记和文本分类的模板代码、LitBank：NLP数据集——支持自然语言处理和计算人文学科任务的100部带标记英文小说语料、百度开源的基准信息抽取系统、虚假新闻数据集、Facebook: LAMA语言模型分析，提供Transformer-XL/BERT/ELMo/GPT预训练语言模型的统一访问接口、CommonsenseQA：面向常识的英文QA挑战、Enterprise-Registration-Data-of-Chinese-Mainland：中国大陆31个省份1978年至2019年一千多万工商企业注册信息。
@@ -7404,6 +7410,9 @@
 
 ## Rust 
 
+- [miquels/webdav-handler-rs](https://github.com/miquels/webdav-handler-rs) - webdav handler library for hyper, warp, actix-web or anything that can interface using the 'http' crate.
+- [messense/dav-server-rs](https://github.com/messense/dav-server-rs) - Rust WebDAV server library. A fork of the webdav-handler crate.
+- [skerkour/bloom](https://github.com/skerkour/bloom) - The simplest way to de-Google your life and business: Inbox, Calendar, Files, Contacts & much more
 - [tikv/minstant](https://github.com/tikv/minstant) - Performant time measuring in Rust
 - [tikv/minitrace-rust](https://github.com/tikv/minitrace-rust) - Extremely fast tracing library for Rust
 - [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Headless Business Intelligence for Building Data Applications
@@ -7584,7 +7593,6 @@
 - [cloudflare/boringtun](https://github.com/cloudflare/boringtun) - Userspace WireGuard® Implementation in Rust
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [timvisee/ffsend](https://github.com/timvisee/ffsend) - :mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.
-- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [toshi-search/Toshi](https://github.com/toshi-search/Toshi) - A full-text search engine in rust
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
@@ -8296,6 +8304,7 @@
 
 ## TypeScript 
 
+- [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
 - [webtoon/psd](https://github.com/webtoon/psd) - Blazing fast, zero-dependency PSD parser for the web and Node.js
 - [fingerprintjs/blog-nojs-fingerprint-demo](https://github.com/fingerprintjs/blog-nojs-fingerprint-demo) - A demo for the no-JavaScript fingerprinting article
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
