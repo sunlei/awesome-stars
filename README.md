@@ -180,6 +180,7 @@
 
 ## C 
 
+- [lefcha/imapfilter](https://github.com/lefcha/imapfilter) - IMAP mail filtering utility
 - [bugaevc/wl-clipboard](https://github.com/bugaevc/wl-clipboard) - Command-line copy/paste utilities for Wayland
 - [adrianlopezroche/fdupes](https://github.com/adrianlopezroche/fdupes) - FDUPES is a program for identifying or deleting duplicate files residing within specified directories.
 - [sahib/rmlint](https://github.com/sahib/rmlint) - Extremely fast tool to remove duplicates and other lint from your filesystem
@@ -283,7 +284,7 @@
 - [okbob/pspg](https://github.com/okbob/pspg) - Unix pager (with very rich functionality) designed for work with tables. Designed for PostgreSQL, but MySQL is supported too. Works well with pgcli too. Can be used as CSV or TSV viewer too. It supports searching, selecting rows, columns, or block and export selected area to clipboard.
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [Awesome-HarmonyOS/HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) - A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
-- [taosdata/TDengine](https://github.com/taosdata/TDengine) - An open-source time-series database with high-performance, scalability and SQL support. It can be widely used in IoT, Connected Vehicles, DevOps, Energy, Finance and other fields
+- [taosdata/TDengine](https://github.com/taosdata/TDengine) - An open-source time-series database with high-performance, scalability and SQL support. It can be widely used in IoT, Connected Vehicles, DevOps, Energy, Finance and other fields.
 - [zlgopen/awtk](https://github.com/zlgopen/awtk) - AWTK = Toolkit AnyWhere(为嵌入式、手机和PC打造的通用GUI系统)
 - [jedisct1/dsvpn](https://github.com/jedisct1/dsvpn) - A Dead Simple VPN.
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
@@ -606,6 +607,8 @@
 
 ## C++ 
 
+- [ssloy/tinyrenderer](https://github.com/ssloy/tinyrenderer) - A brief computer graphics / rendering course
+- [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents
 - [jathu/fx](https://github.com/jathu/fx) - fx is a workspace tool manager. It allows you to create consistent, discoverable, language-neutral and developer friendly command line tools.
 - [skyline-emu/skyline](https://github.com/skyline-emu/skyline) - Run Nintendo Switch homebrew & games on your Android device!
 - [oxen-io/lokinet](https://github.com/oxen-io/lokinet) - Lokinet is an anonymous, decentralized and IP based overlay network for the internet.
@@ -969,7 +972,6 @@
 - [Tencent/tmt-workflow](https://github.com/Tencent/tmt-workflow) - A web developer workflow used by WeChat team based on Gulp, with cross-platform supported and solutions prepared.
 - [kazzkiq/balloon.css](https://github.com/kazzkiq/balloon.css) - Simple tooltips made of pure CSS
 - [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
-- [jonsuh/hamburgers](https://github.com/jonsuh/hamburgers) - Tasty CSS-animated Hamburgers
 - [jamiewilson/predawn](https://github.com/jamiewilson/predawn) - Predawn is a dark interface and syntax theme for Sublime Text and Atom.
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [HunterLarco/voxel.css](https://github.com/HunterLarco/voxel.css) - A lightweight 3D CSS voxel library.
@@ -1201,6 +1203,7 @@
 
 ## Go 
 
+- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [winfsp/hubfs](https://github.com/winfsp/hubfs) - File system for GitHub
 - [loggie-io/loggie](https://github.com/loggie-io/loggie) - A lightweight, cloud-native data transfer agent and aggregator
 - [sysdream/ligolo](https://github.com/sysdream/ligolo) - Reverse Tunneling made easy for pentesters, by pentesters https://sysdream.com/
@@ -2789,6 +2792,8 @@
 
 ## JavaScript 
 
+- [amebalabs/Esse](https://github.com/amebalabs/Esse) - Swiss army knife of text transformation for iOS and macOS
+- [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
 - [tengbao/vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
 - [bojue/BaseMap](https://github.com/bojue/BaseMap) - IDC管理2.5D底图绘制工具(Vue)
 - [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config) - Config of File Nesting for VS Code
@@ -2819,7 +2824,7 @@
 - [nolanlawson/fuite](https://github.com/nolanlawson/fuite) - A tool for finding memory leaks in web apps
 - [reorx/refgen](https://github.com/reorx/refgen) - 
 - [LiveDuo/destack](https://github.com/LiveDuo/destack) - Page builder based on Next.js 🅧, Tailwind CSS 🍃 & Grapes.js 🍇. Zero-config deployment to Vercel 🚀. Now also supports React!
-- [RustMagazine/rust_magazine_2021](https://github.com/RustMagazine/rust_magazine_2021) - RustMagazine 2021 期刊
+- [RustMagazine/rust_magazine_2021](https://github.com/RustMagazine/rust_magazine_2021) - RustMagazine 2021 期刊 (已完结)
 - [schl3ck/ios-scriptable-types](https://github.com/schl3ck/ios-scriptable-types) - 
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️
 - [IvanMathy/Boop](https://github.com/IvanMathy/Boop) - A scriptable scratchpad for developers. In slow yet steady progress.
@@ -2880,7 +2885,7 @@
 - [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
 - [hrbrmstr/pewpew](https://github.com/hrbrmstr/pewpew) - :star: :star: :star: Build your own IP Attack Maps with SOUND!
-- [google/zx](https://github.com/google/zx) - A tool for writing better scripts 🐚🔥🔥
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts 🔥🔥🔥
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [jhuckaby/Cronicle](https://github.com/jhuckaby/Cronicle) - A simple, distributed task scheduler and runner with a web based UI.
 - [chrisleekr/binance-trading-bot](https://github.com/chrisleekr/binance-trading-bot) - Automated Binance trading bot -  Trade multiple cryptocurrencies. Buy low/sell high with Grid Trading. Integrated with TradingView technical analysis
@@ -5257,6 +5262,7 @@
 
 ## PHP 
 
+- [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕 - we stand with 🇺🇦
 - [leonstafford/wp2static](https://github.com/leonstafford/wp2static) - WordPress static site generator for security, performance and cost benefits
 - [stevegrunwell/asimov](https://github.com/stevegrunwell/asimov) - Automatically exclude development dependencies from Apple Time Machine backups
 - [operasoftware/ssh-key-authority](https://github.com/operasoftware/ssh-key-authority) - A tool for managing SSH key access to any number of servers.
@@ -5491,6 +5497,8 @@
 
 ## Python 
 
+- [ploomber/ploomber](https://github.com/ploomber/ploomber) - The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️
+- [Mailu/Mailu](https://github.com/Mailu/Mailu) - Insular email distribution - mail server as Docker images
 - [asottile/pyupgrade](https://github.com/asottile/pyupgrade) - A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.
 - [arachsys/mailwrap](https://github.com/arachsys/mailwrap) - Text filling and wrapping plugin for Apple Mail
 - [eth-brownie/brownie](https://github.com/eth-brownie/brownie) - A Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
@@ -7297,6 +7305,7 @@
 
 ## Ruby 
 
+- [sj26/mailcatcher](https://github.com/sj26/mailcatcher) - Catches mail and serves it through a dream.
 - [zimbatm/h](https://github.com/zimbatm/h) - faster shell navigation of projects
 - [ytti/oxidized](https://github.com/ytti/oxidized) - Oxidized is a network device configuration backup tool. It's a RANCID replacement!
 - [JXA-Cookbook/JXA-Cookbook](https://github.com/JXA-Cookbook/JXA-Cookbook) - Cookbook for JavaScript for Automation in Mac OS X Yosemite
@@ -7415,6 +7424,8 @@
 
 ## Rust 
 
+- [sigoden/argc](https://github.com/sigoden/argc) - A handy way to handle sh/bash cli parameters.
+- [naaive/orange](https://github.com/naaive/orange) - Cross-platform local file search engine.
 - [miquels/webdav-handler-rs](https://github.com/miquels/webdav-handler-rs) - webdav handler library for hyper, warp, actix-web or anything that can interface using the 'http' crate.
 - [messense/dav-server-rs](https://github.com/messense/dav-server-rs) - Rust WebDAV server library. A fork of the webdav-handler crate.
 - [skerkour/bloom](https://github.com/skerkour/bloom) - The simplest way to de-Google your life and business: Inbox, Calendar, Files, Contacts & much more
@@ -7655,6 +7666,7 @@
 - [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 - [pinggod/hexo-theme-apollo](https://github.com/pinggod/hexo-theme-apollo) - 🌅 a concise hexo theme
 - [BafS/Gutenberg](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.
+- [jonsuh/hamburgers](https://github.com/jonsuh/hamburgers) - Tasty CSS-animated Hamburgers
 - [primer/css](https://github.com/primer/css) - The CSS design system that powers GitHub
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [saeedalipoor/icono](https://github.com/saeedalipoor/icono) - One tag One icon, no font or svg, Pure CSS
@@ -7689,6 +7701,8 @@
 
 ## Shell 
 
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
+- [datastack-net/dockerized](https://github.com/datastack-net/dockerized) - Run popular commandline tools within docker
 - [zsh-users/zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search) - 🐠 ZSH port of Fish history search (up arrow)
 - [fscarmen/warp](https://github.com/fscarmen/warp) - WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本
 - [mklement0/fileicon](https://github.com/mklement0/fileicon) - macOS CLI for managing custom icons for files and folders
@@ -8076,6 +8090,8 @@
 
 ## Swift 
 
+- [kean/PulsePro](https://github.com/kean/PulsePro) - 
+- [amebalabs/TRex](https://github.com/amebalabs/TRex) - Copy any text on your screen, stop retyping.
 - [iCepa/iCepa](https://github.com/iCepa/iCepa) - iOS system-wide VPN based Tor client
 - [SailyTeam/Saily](https://github.com/SailyTeam/Saily) - Modern. Fast. Beautiful.
 - [Lakr233/Rayon](https://github.com/Lakr233/Rayon) - yet another SSH machine manager
