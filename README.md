@@ -181,6 +181,7 @@
 
 ## C 
 
+- [prabirshrestha/dwm-win32](https://github.com/prabirshrestha/dwm-win32) - dwm port of tiling manager to Window
 - [ehids/ecapture](https://github.com/ehids/ecapture) - ecapture是一款无需CA证书，就可以进行HTTPS通讯明文抓包的工具。
 - [lefcha/imapfilter](https://github.com/lefcha/imapfilter) - IMAP mail filtering utility
 - [bugaevc/wl-clipboard](https://github.com/bugaevc/wl-clipboard) - Command-line copy/paste utilities for Wayland
@@ -1205,8 +1206,11 @@
 
 ## Go 
 
+- [looterz/grimd](https://github.com/looterz/grimd) - :zap: fast dns proxy that can run anywhere, built to black-hole internet advertisements and malware servers
+- [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Security scanner for your Terraform code
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
+- [datastack-net/dockerized](https://github.com/datastack-net/dockerized) - Run popular commandline tools within docker
 - [winfsp/hubfs](https://github.com/winfsp/hubfs) - File system for GitHub
 - [loggie-io/loggie](https://github.com/loggie-io/loggie) - A lightweight, cloud-native data transfer agent and aggregator
 - [sysdream/ligolo](https://github.com/sysdream/ligolo) - Reverse Tunneling made easy for pentesters, by pentesters https://sysdream.com/
@@ -1393,7 +1397,7 @@
 - [mozillazg/go-pinyin](https://github.com/mozillazg/go-pinyin) - 汉字转拼音
 - [muesli/reflow](https://github.com/muesli/reflow) - A collection of (ANSI-sequence aware) text reflow operations & algorithms
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style & color support for your terminal applications
-- [wabarc/wayback](https://github.com/wabarc/wayback) - A toolkit for snapshot webpage to Internet Archive, archive.today, IPFS and beyond
+- [wabarc/wayback](https://github.com/wabarc/wayback) - A self-hosted toolkit for archiving webpages to the Internet Archive, archive.today, IPFS, and local file systems
 - [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot) - A fast cryptocurrency platform for trading bot in Go.
 - [augmentable-dev/reqlite](https://github.com/augmentable-dev/reqlite) - Query redis with SQL
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
@@ -2451,7 +2455,6 @@
 - [Aerolab/pixelcounterapp](https://github.com/Aerolab/pixelcounterapp) - How many pixels have you crafted?
 - [Tencent/weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
 - [hashicorp/otto](https://github.com/hashicorp/otto) - Development and deployment made easy.
-- [0xashu/Guide](https://github.com/0xashu/Guide) - :mushroom: 指北，A front end style guide.
 - [sciactive/pnotify](https://github.com/sciactive/pnotify) - Beautiful JavaScript notifications with Web Notifications support.
 - [taitems/iOS-Overlay](https://github.com/taitems/iOS-Overlay) - iOS Overlay/Notification Plugin for the Web!
 - [desandro/masonry](https://github.com/desandro/masonry) - :love_hotel: Cascading grid layout plugin
@@ -2585,6 +2588,7 @@
 
 ## Java 
 
+- [RaiMan/SikuliX1](https://github.com/RaiMan/SikuliX1) - SikuliX version 2.0.0+ (2019+)
 - [nayuki/QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.
 - [huanghongxun/HMCL](https://github.com/huanghongxun/HMCL) - A Minecraft Launcher which is multi-functional, cross-platform and popular
 - [jhy/jsoup](https://github.com/jhy/jsoup) - jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.
@@ -2822,7 +2826,6 @@
 - [wensonsmith/YoudaoTranslator](https://github.com/wensonsmith/YoudaoTranslator) - Alfred Youdao Translate Workflow
 - [ChainSafe/web3.js](https://github.com/ChainSafe/web3.js) - Ethereum JavaScript API
 - [shenruisi/Stay](https://github.com/shenruisi/Stay) - Stay is a local userscript manager and an extension sample for Safari on iOS/iPadOS.
-- [Tencent/tdesign](https://github.com/Tencent/tdesign) - Enterprise Design System
 - [EtherDream/freecdn](https://github.com/EtherDream/freecdn) - A front-end CDN based on ServiceWorker
 - [nolanlawson/fuite](https://github.com/nolanlawson/fuite) - A tool for finding memory leaks in web apps
 - [reorx/refgen](https://github.com/reorx/refgen) - 
@@ -2895,7 +2898,7 @@
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Open-Source Backend Server for Web, Mobile & Flutter Developers 🚀
 - [amarsyla/hidutil-key-remapping-generator](https://github.com/amarsyla/hidutil-key-remapping-generator) - Simple tool to generate HIDUTIL key remapping configurations for MacOS
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [browserpass/browserpass-extension](https://github.com/browserpass/browserpass-extension) - Browserpass web extension
@@ -4162,6 +4165,8 @@
 
 ## Lua 
 
+- [dbalatero/VimMode.spoon](https://github.com/dbalatero/VimMode.spoon) - Adds vim keybindings to all OS X inputs
+- [szymonkaliski/hhtwm](https://github.com/szymonkaliski/hhtwm) - hackable tiling window manager for macOS and Hammerspoon
 - [mobily/awesome-keys](https://github.com/mobily/awesome-keys) - 🚀 AwesomeKeys is a plugin for Hammerspoon, that allows customizing global and app-specific key bindings.
 - [sumneko/lua-language-server](https://github.com/sumneko/lua-language-server) - Lua Language Server coded by Lua
 - [FryJay/MenuHammer](https://github.com/FryJay/MenuHammer) - A Spacemacs inspired menu system for macOS built for Hammerspoon.
@@ -4593,6 +4598,7 @@
 - [smartcontractkit/full-blockchain-solidity-course-py](https://github.com/smartcontractkit/full-blockchain-solidity-course-py) - Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition
 - [MetaCubeX/Clash.Meta](https://github.com/MetaCubeX/Clash.Meta) - A rule-based tunnel in Go.
 - [Hanqaqa/PCB_Business_Card](https://github.com/Hanqaqa/PCB_Business_Card) - Elegant PCB Business Card made with Inkscape, Kicad and Svg2Shenzen.
+- [Tencent/tdesign](https://github.com/Tencent/tdesign) - Enterprise Design System
 - [mkrl/misbrands](https://github.com/mkrl/misbrands) - The world's most hated IT stickers
 - [0xnr/awesome-analytics](https://github.com/0xnr/awesome-analytics) - A curated list of analytics frameworks, software and other tools.
 - [zbezj/HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator) - 
@@ -5501,6 +5507,7 @@
 
 ## Python 
 
+- [chen310/NeteaseCloudMusicTasks](https://github.com/chen310/NeteaseCloudMusicTasks) - 网易云音乐自动任务：刷等级、云贝、云豆等
 - [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui) - A simple yet powerful TUI framework for your Python (3.7+) applications.
 - [afroisalreadyinu/miniboss](https://github.com/afroisalreadyinu/miniboss) - The most versatile way to manage containers locally
 - [ploomber/ploomber](https://github.com/ploomber/ploomber) - The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️
@@ -5530,7 +5537,7 @@
 - [qq547276542/Agriculture_KnowledgeGraph](https://github.com/qq547276542/Agriculture_KnowledgeGraph) - 农业知识图谱(AgriKG)：农业领域的信息检索，命名实体识别，关系抽取，智能问答，辅助决策
 - [taojy123/KeymouseGo](https://github.com/taojy123/KeymouseGo) - 类似按键精灵的鼠标键盘录制和自动化操作 模拟点击和键入 | automate mouse clicks and keyboard input
 - [nidhaloff/igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test, and use models without writing code
-- [louisyoungx/JD-SHOPPER](https://github.com/louisyoungx/JD-SHOPPER) - 京东自动下单 (自动登录,指定时间预约商品,商品补货监控,自动加购物车,自动下单)
+- [louisyoungx/jd-shopper](https://github.com/louisyoungx/jd-shopper) - 京东自动下单 (自动登录,指定时间预约商品,商品补货监控,自动加购物车,自动下单)
 - [Bycelium/PyFlow](https://github.com/Bycelium/PyFlow) - An open-source tool for visual and modular block programming in python
 - [kobus-v-schoor/dotgit](https://github.com/kobus-v-schoor/dotgit) - A comprehensive solution to managing your dotfiles
 - [fraunhoferportugal/tsfel](https://github.com/fraunhoferportugal/tsfel) - An intuitive library to extract features from time series
@@ -5640,7 +5647,7 @@
 - [bmoscon/cryptostore](https://github.com/bmoscon/cryptostore) - A scalable storage service for cryptocurrency data
 - [ccontavalli/ssh-ident](https://github.com/ccontavalli/ssh-ident) - Different agents and different keys for different projects, with ssh.
 - [polakowo/vectorbt](https://github.com/polakowo/vectorbt) - Find your trading edge, using the fastest engine for backtesting, algorithmic trading, and research.
-- [wh1te909/tacticalrmm](https://github.com/wh1te909/tacticalrmm) - A remote monitoring & management tool, built with Django, Vue and Go.
+- [amidaware/tacticalrmm](https://github.com/amidaware/tacticalrmm) - A remote monitoring & management tool, built with Django, Vue and Go.
 - [yihong0618/GitHubPoster](https://github.com/yihong0618/GitHubPoster) - Make everything a GitHub svg poster and Skyline!
 - [ranaroussi/quantstats](https://github.com/ranaroussi/quantstats) - Portfolio analytics for quants, written in Python
 - [n0vad3v/registry-watch](https://github.com/n0vad3v/registry-watch) - Watch your Docker registry project size, then monitor it with Grafana.
@@ -5653,7 +5660,7 @@
 - [man-group/arctic](https://github.com/man-group/arctic) - High performance datastore for time series and tick data
 - [yoeo/guesslang](https://github.com/yoeo/guesslang) - Detect the programming language of a source code
 - [IlanKalendarov/PyHook](https://github.com/IlanKalendarov/PyHook) - PyHook is an offensive API hooking tool written in python designed to catch various credentials within the API call.
-- [electric-package-manager/electric](https://github.com/electric-package-manager/electric) - A fast, futuristic package manager for Windows.
+- [XtremeDevX/electric](https://github.com/XtremeDevX/electric) - A fast, futuristic package manager for Windows.
 - [Fizzadar/pyinfra](https://github.com/Fizzadar/pyinfra) - pyinfra automates infrastructure super fast at massive scale. It can be used for ad-hoc command execution, service deployment, configuration management and more.
 - [michelp/postgresql-wheel](https://github.com/michelp/postgresql-wheel) - A Python wheel containing PostgreSQL
 - [s0md3v/uro](https://github.com/s0md3v/uro) - declutters url lists for crawling/pentesting
@@ -7711,7 +7718,6 @@
 
 - [wireghoul/graudit](https://github.com/wireghoul/graudit) - grep rough audit - source code auditing tool
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
-- [datastack-net/dockerized](https://github.com/datastack-net/dockerized) - Run popular commandline tools within docker
 - [zsh-users/zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search) - 🐠 ZSH port of Fish history search (up arrow)
 - [fscarmen/warp](https://github.com/fscarmen/warp) - WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本
 - [mklement0/fileicon](https://github.com/mklement0/fileicon) - macOS CLI for managing custom icons for files and folders
@@ -8103,6 +8109,8 @@
 
 ## Swift 
 
+- [rwv/AppStorify](https://github.com/rwv/AppStorify) - 🍎 An App to check whether a non-App Store app is in App Store.
+- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [kean/PulsePro](https://github.com/kean/PulsePro) - 
 - [amebalabs/TRex](https://github.com/amebalabs/TRex) - Copy any text on your screen, stop retyping.
 - [iCepa/iCepa](https://github.com/iCepa/iCepa) - iOS system-wide VPN based Tor client
@@ -8340,6 +8348,7 @@
 
 ## TypeScript 
 
+- [Bowen7/regex-vis](https://github.com/Bowen7/regex-vis) - 🎨 Regex visualizer & editor
 - [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
 - [webtoon/psd](https://github.com/webtoon/psd) - Blazing fast, zero-dependency PSD parser for the web and Node.js
@@ -8349,7 +8358,7 @@
 - [gregjacobs/Autolinker.js](https://github.com/gregjacobs/Autolinker.js) - Utility to Automatically Link URLs, Email Addresses, Phone Numbers, Twitter handles, and Hashtags in a given block of text/HTML
 - [purocean/yn](https://github.com/purocean/yn) - A Hackable Markdown Note Application for Programmers. Version control, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, plug-in, and macro replacement.
 - [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows and macOS.
-- [fyears/remotely-save](https://github.com/fyears/remotely-save) - 
+- [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) - 
 - [planetscale/beam](https://github.com/planetscale/beam) - A simple message board for your organization or project
 - [Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner) - Image inpainting tool powered by SOTA AI Model
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
@@ -8518,7 +8527,7 @@
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [benawad/destiny](https://github.com/benawad/destiny) - Prettier for File Structures
 - [lostintangent/gistpad](https://github.com/lostintangent/gistpad) - VS Code extension for managing and sharing code snippets, notes and interactive samples using GitHub Gists
-- [surgioproject/surgio](https://github.com/surgioproject/surgio) - Generating rules for Surge, Clash, Quantumult... like a PRO.
+- [surgioproject/surgio](https://github.com/surgioproject/surgio) - Generating rules for Surge, Clash, Quantumult like a PRO
 - [1milligram/csslayout](https://github.com/1milligram/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
