@@ -1304,10 +1304,10 @@
 - [easychen/wecomchan](https://github.com/easychen/wecomchan) - 通过企业微信向微信推送消息的配置文档、直推函数和可自行搭建的在线服务代码。可以看成Server酱的开源替代方案之一。
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theme engine for any shell.
 - [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4 / IPv6)！另外也支持其他 CDN / 网站 IP ~
-- [jkstack/natpass](https://github.com/jkstack/natpass) - 新一代主机管理工具，支持web vnc和web shell
+- [jkstack/natpass](https://github.com/jkstack/natpass) - 新一代主机管理工具，支持web vnc和web shell，居家办公神器
 - [zu1k/nali](https://github.com/zu1k/nali) - 一个查询IP地理信息和CDN服务提供商的离线终端工具.An offline tool for querying IP geographic information and CDN provider.
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go
-- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - OpenIM: Instant messaging open source project based on go built by former WeChat technology experts. Backend in Go.（由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端SDK开源即时通讯（IM）整体解决方案，可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。）
+- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - OpenIM: Instant messaging open source project based on go built by former IM technology experts. Backend in Go.（由IM技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端SDK开源即时通讯（IM）整体解决方案，可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。）
 - [jedib0t/go-pretty](https://github.com/jedib0t/go-pretty) - Pretty print tables and more in golang!
 - [vektra/mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Golang
 - [GoogleContainerTools/container-structure-test](https://github.com/GoogleContainerTools/container-structure-test) - validate the structure of your container images
@@ -1763,7 +1763,7 @@
 - [coder/sshcode](https://github.com/coder/sshcode) - Run VS Code on any server over SSH.
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 - [sysdream/chashell](https://github.com/sysdream/chashell) - Chashell is a Go reverse shell that communicates over DNS. It can be used to bypass firewalls or tightly restricted networks.
-- [ContentSquare/chproxy](https://github.com/ContentSquare/chproxy) - Unofficial ClickHouse http proxy and load balancer
+- [ContentSquare/chproxy](https://github.com/ContentSquare/chproxy) - Open-Source ClickHouse http proxy and load balancer
 - [jondot/goweight](https://github.com/jondot/goweight) - A tool to analyze and troubleshoot a Go binary size.
 - [saibing/tools](https://github.com/saibing/tools) - [mirror] Go Tools
 - [vugu/vugu](https://github.com/vugu/vugu) - Vugu: A modern UI library for Go+WebAssembly (experimental)
@@ -2902,7 +2902,7 @@
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Open-Source Backend Server for Web, Mobile & Flutter Developers 🚀
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [amarsyla/hidutil-key-remapping-generator](https://github.com/amarsyla/hidutil-key-remapping-generator) - Simple tool to generate HIDUTIL key remapping configurations for MacOS
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [browserpass/browserpass-extension](https://github.com/browserpass/browserpass-extension) - Browserpass web extension
@@ -4578,6 +4578,7 @@
 
 ## Others 
 
+- [skywind3000/preserve-iso](https://github.com/skywind3000/preserve-iso) - 绝版软件保护工程
 - [bromite/bromite](https://github.com/bromite/bromite) - Bromite a Chromium fork with ad blocking and privacy enhancements; take back your browser!
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [blockthreat/blocksec-ctfs](https://github.com/blockthreat/blocksec-ctfs) - A curated list of blockchain security Capture the Flag (CTF) competitions
@@ -5514,6 +5515,7 @@
 
 ## Python 
 
+- [Unknow101/FuckThatPacker](https://github.com/Unknow101/FuckThatPacker) - A simple python packer to easily bypass Windows Defender
 - [crytic/slither](https://github.com/crytic/slither) - Static Analyzer for Solidity
 - [ccyanxyz/uniswap-arbitrage-analysis](https://github.com/ccyanxyz/uniswap-arbitrage-analysis) - Uniswap arbitrage problem analysis
 - [dbiir/UER-py](https://github.com/dbiir/UER-py) - Open Source Pre-training Model Framework in PyTorch & Pre-trained Model Zoo
@@ -5543,12 +5545,11 @@
 - [gkbrk/slowloris](https://github.com/gkbrk/slowloris) - Low bandwidth DoS tool. Slowloris rewrite in Python.
 - [palahsu/DDoS-Ripper](https://github.com/palahsu/DDoS-Ripper) - DDos Ripper a Distributable Denied-of-Service (DDOS) attack server that cuts off targets or surrounding infrastructure in a flood of Internet traffic
 - [pytorch/torchrec](https://github.com/pytorch/torchrec) - Pytorch domain library for recommendation systems
-- [MHProDev/MHDDoS](https://github.com/MHProDev/MHDDoS) - Best DDoS Attack Script  Python3, Cyber Attack With 50 Methods
+- [MHProDev/MHDDoS](https://github.com/MHProDev/MHDDoS) - Best DDoS Attack Script  Python3, Cyber Attack With 51 Methods
 - [slingamn/mureq](https://github.com/slingamn/mureq) - Single-file alternative to python-requests
 - [qq547276542/Agriculture_KnowledgeGraph](https://github.com/qq547276542/Agriculture_KnowledgeGraph) - 农业知识图谱(AgriKG)：农业领域的信息检索，命名实体识别，关系抽取，智能问答，辅助决策
 - [taojy123/KeymouseGo](https://github.com/taojy123/KeymouseGo) - 类似按键精灵的鼠标键盘录制和自动化操作 模拟点击和键入 | automate mouse clicks and keyboard input
 - [nidhaloff/igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test, and use models without writing code
-- [louisyoungx/jd-shopper](https://github.com/louisyoungx/jd-shopper) - 京东自动下单 (自动登录,指定时间预约商品,商品补货监控,自动加购物车,自动下单)
 - [Bycelium/PyFlow](https://github.com/Bycelium/PyFlow) - An open-source tool for visual and modular block programming in python
 - [kobus-v-schoor/dotgit](https://github.com/kobus-v-schoor/dotgit) - A comprehensive solution to managing your dotfiles
 - [fraunhoferportugal/tsfel](https://github.com/fraunhoferportugal/tsfel) - An intuitive library to extract features from time series
@@ -5884,7 +5885,7 @@
 - [axnsan12/drf-yasg](https://github.com/axnsan12/drf-yasg) - Automated generation of real Swagger/OpenAPI 2.0 schemas from Django REST Framework code.
 - [yikeke/zh-style-guide](https://github.com/yikeke/zh-style-guide) - An open-source style guide for writing Chinese technical documents: https://zh-style-guide.readthedocs.io
 - [ansible-community/molecule](https://github.com/ansible-community/molecule) - Molecule aids in the development and testing of Ansible roles
-- [ansible-community/ansible-lint](https://github.com/ansible-community/ansible-lint) - Best practices checker for Ansible
+- [ansible/ansible-lint](https://github.com/ansible/ansible-lint) - Best practices checker for Ansible
 - [lepture/authlib](https://github.com/lepture/authlib) - The ultimate Python library in building OAuth, OpenID Connect clients and servers. JWS,JWE,JWK,JWA,JWT included.
 - [nian-hua/BurpExtender](https://github.com/nian-hua/BurpExtender) - 
 - [MatteoGuadrini/Butterfly-Backup](https://github.com/MatteoGuadrini/Butterfly-Backup) - Butterfly Backup is a simple command line wrapper of rsync for complex task, written in python.
@@ -7449,6 +7450,8 @@
 
 ## Rust 
 
+- [fusion-engineering/inline-python](https://github.com/fusion-engineering/inline-python) - Inline Python code directly in your Rust code
+- [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect) - A linter and formatter for help you improve copywriting, to correct spaces, punctuations between CJK (Chinese, Japanese, Korean).
 - [hyperium/http](https://github.com/hyperium/http) - Rust HTTP types
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - Safe and portable GPU abstraction in Rust, implementing WebGPU API.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
