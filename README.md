@@ -181,6 +181,8 @@
 
 ## C 
 
+- [fcambus/spleen](https://github.com/fcambus/spleen) - Monospaced bitmap fonts
+- [kubernetes-sigs/security-profiles-operator](https://github.com/kubernetes-sigs/security-profiles-operator) - The Kubernetes Security Profiles Operator
 - [nodemcu/nodemcu-firmware](https://github.com/nodemcu/nodemcu-firmware) - Lua based interactive firmware for ESP8266, ESP8285 and ESP32
 - [prabirshrestha/dwm-win32](https://github.com/prabirshrestha/dwm-win32) - dwm port of tiling manager to Window
 - [ehids/ecapture](https://github.com/ehids/ecapture) - capture SSL/TLS text content without CA cert by eBPF.
@@ -1900,6 +1902,7 @@
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [bonfy/go-mega](https://github.com/bonfy/go-mega) - ✨🤟✨Go-Mega Tutorial for Go Web Develop | Demo: https://go-mega.herokuapp.com
 - [yinheli/sshw](https://github.com/yinheli/sshw) - 🐝  ssh client wrapper for automatic login
+- [httprunner/httprunner](https://github.com/httprunner/httprunner) - One-stop solution for HTTP(S) testing, written in Python.
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [XiaoMi/soar](https://github.com/XiaoMi/soar) - SQL Optimizer And Rewriter
 - [davrodpin/mole](https://github.com/davrodpin/mole) - CLI application to create ssh tunnels focused on resiliency and user experience.
@@ -2803,8 +2806,8 @@
 
 ## JavaScript 
 
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀
 - [amebalabs/Esse](https://github.com/amebalabs/Esse) - Swiss army knife of text transformation for iOS and macOS
-- [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
 - [tengbao/vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
 - [bojue/BaseMap](https://github.com/bojue/BaseMap) - IDC管理2.5D底图绘制工具(Vue)
 - [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config) - Config of File Nesting for VS Code
@@ -2812,7 +2815,7 @@
 - [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
 - [TejasQ/add-gitignore](https://github.com/TejasQ/add-gitignore) - An interactive CLI tool that adds a .gitignore to your projects.
 - [cezaraugusto/mklicense](https://github.com/cezaraugusto/mklicense) - CLI tool for generating Licenses. Easily.
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - ↯ Planet-scale performance testing for DevOps & SRE
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - ↯ Cloud-scale performance testing for DevOps & SRE
 - [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter) - Drafts your next release notes as pull requests are merged into master.
 - [huhu/rust-search-extension](https://github.com/huhu/rust-search-extension) - 🦀 The ultimate search extension for Rust
 - [AntSwordProject/antSword](https://github.com/AntSwordProject/antSword) - 中国蚁剑是一款跨平台的开源网站管理工具。AntSword is a cross-platform website management toolkit.
@@ -3658,7 +3661,6 @@
 - [NeXTs/Clusterize.js](https://github.com/NeXTs/Clusterize.js) - Tiny vanilla JS plugin to display large data sets easily
 - [vinta/pangu.js](https://github.com/vinta/pangu.js) - Paranoid text spacing in JavaScript
 - [bendc/sprint](https://github.com/bendc/sprint) - A tiny, lightning fast jQuery-like library for modern browsers.
-- [ikitty/HerosData](https://github.com/ikitty/HerosData) - heros data of ShuiHu
 - [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [wa0x6e/cal-heatmap](https://github.com/wa0x6e/cal-heatmap) - Cal-Heatmap is a javascript module to create calendar heatmap to visualize time series data
 - [callmecavs/layzr.js](https://github.com/callmecavs/layzr.js) - A modern lazy loading library for images.
@@ -4170,6 +4172,7 @@
 
 ## Lua 
 
+- [pkulchenko/MobDebug](https://github.com/pkulchenko/MobDebug) - Remote debugger for Lua.
 - [dbalatero/VimMode.spoon](https://github.com/dbalatero/VimMode.spoon) - Adds vim keybindings to all OS X inputs
 - [szymonkaliski/hhtwm](https://github.com/szymonkaliski/hhtwm) - hackable tiling window manager for macOS and Hammerspoon
 - [mobily/awesome-keys](https://github.com/mobily/awesome-keys) - 🚀 AwesomeKeys is a plugin for Hammerspoon, that allows customizing global and app-specific key bindings.
@@ -4346,7 +4349,6 @@
 - [SatanWoo/TrampolineHook](https://github.com/SatanWoo/TrampolineHook) - A solution for centralized method redirection
 - [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL/MariaDB database management for macOS
 - [felixhageloh/uebersicht](https://github.com/felixhageloh/uebersicht) - ˈyːbɐˌzɪçt
-- [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。
 - [elegracer/NetSpeedMonitor](https://github.com/elegracer/NetSpeedMonitor) - A minimal menu bar Mac OS X app to monitor network speed
 - [didi/echo](https://github.com/didi/echo) - Echo是一款桌面端调试工具，旨在提高客户端的研发调试效率
 - [AAChartModel/AAChartKit](https://github.com/AAChartModel/AAChartKit) - 📈📊🚀🚀🚀An elegant modern declarative data visualization chart framework for iOS, iPadOS and macOS. Extremely powerful, supports line, spline, area, areaspline, column, bar, pie, scatter, angular gauges, arearange, areasplinerange, columnrange, bubble, box plot, error bars, funnel, waterfall and polar chart types. 极其精美而又强大的跨平台数据可视化图表框架,支持柱状图、条形图、折线图、曲线图、折线填充图、曲线填充图、气泡图、扇形图、环形图、散点图、雷达图、混合图等各种类型的多达几十种的信息图图表,完全满足工作所需.
@@ -4729,6 +4731,7 @@
 - [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor
 - [stevemao/awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - :sunglasses: A curated list of add-ons that extend/enhance the git CLI.
 - [blankmagic/surge](https://github.com/blankmagic/surge) - Network toolbox Surge rules, modules and configuration files, For pure self use.
+- [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。
 - [MustangYM/WeChatICU-ForMac](https://github.com/MustangYM/WeChatICU-ForMac) - Mac版企业微信消息防撤回, 聊天会话去水印
 - [SecWiki/sec-chart](https://github.com/SecWiki/sec-chart) - 安全思维导图集合
 - [alexkaratarakis/gitattributes](https://github.com/alexkaratarakis/gitattributes) - A collection of useful .gitattributes templates
@@ -5515,6 +5518,7 @@
 
 ## Python 
 
+- [d0c-s4vage/lookatme](https://github.com/d0c-s4vage/lookatme) - An interactive, terminal-based markdown presenter
 - [Unknow101/FuckThatPacker](https://github.com/Unknow101/FuckThatPacker) - A simple python packer to easily bypass Windows Defender
 - [crytic/slither](https://github.com/crytic/slither) - Static Analyzer for Solidity
 - [ccyanxyz/uniswap-arbitrage-analysis](https://github.com/ccyanxyz/uniswap-arbitrage-analysis) - Uniswap arbitrage problem analysis
@@ -6258,7 +6262,6 @@
 - [encode/apistar](https://github.com/encode/apistar) - The Web API toolkit. 🛠
 - [jiffyclub/snakeviz](https://github.com/jiffyclub/snakeviz) - An in-browser Python profile viewer
 - [aws/aws-sam-cli](https://github.com/aws/aws-sam-cli) - CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM
-- [httprunner/httprunner](https://github.com/httprunner/httprunner) - One-stop solution for HTTP(S) testing, written in Python.
 - [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
 - [facebookresearch/maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark) - Fast, modular reference implementation of Instance Segmentation and Object Detection algorithms in PyTorch.
 - [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
@@ -6669,7 +6672,7 @@
 - [david-gpu/srez](https://github.com/david-gpu/srez) - Image super-resolution through deep learning
 - [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
 - [sdispater/pendulum](https://github.com/sdispater/pendulum) - Python datetimes made easy
-- [noplay/python-mysql-replication](https://github.com/noplay/python-mysql-replication) - Pure Python Implementation of MySQL replication protocol build on top of PyMYSQL
+- [duponchelle/python-mysql-replication](https://github.com/duponchelle/python-mysql-replication) - Pure Python Implementation of MySQL replication protocol build on top of PyMYSQL
 - [infosec-au/altdns](https://github.com/infosec-au/altdns) - Generates permutations, alterations and mutations of subdomains and then resolves them
 - [CouchPotato/CouchPotatoServer](https://github.com/CouchPotato/CouchPotatoServer) - Automatic Movie Downloading via NZBs & Torrents
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
@@ -7450,6 +7453,7 @@
 
 ## Rust 
 
+- [EAimTY/tuic](https://github.com/EAimTY/tuic) - Delicately-TUICed high-performance proxy built on top of the QUIC protocol
 - [fusion-engineering/inline-python](https://github.com/fusion-engineering/inline-python) - Inline Python code directly in your Rust code
 - [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect) - A linter and formatter for help you improve copywriting, to correct spaces, punctuations between CJK (Chinese, Japanese, Korean).
 - [hyperium/http](https://github.com/hyperium/http) - Rust HTTP types
@@ -7515,7 +7519,7 @@
 - [asimihsan/cwl-mount](https://github.com/asimihsan/cwl-mount) - Mount AWS CloudWatch logs as a file system
 - [bytedance/monoio](https://github.com/bytedance/monoio) - Rust async runtime based on io-uring.
 - [tweag/nickel](https://github.com/tweag/nickel) - Better configuration for less
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - An elastic and reliable Modern Cloud Data Warehouse, offers Blazing Fast Query and combines Elasticity, Simplicity, Low cost of the Cloud, built to make the Data Cloud easy
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - A Modern Cloud Data Warehouse, have the Elasticity and Performance both on Object Storage
 - [iximiuz/pq](https://github.com/iximiuz/pq) - Parse and Query log files as time series
 - [elfshaker/elfshaker](https://github.com/elfshaker/elfshaker) - elfshaker stores binary objects efficiently
 - [rustwasm/wasm-pack](https://github.com/rustwasm/wasm-pack) - 📦✨ your favorite rust -&gt; wasm workflow tool!
@@ -7676,6 +7680,7 @@
 
 ## SCSS 
 
+- [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
 - [oknozor/toml-bombadil](https://github.com/oknozor/toml-bombadil) - A dotfile manager with templating
 - [vinibiavatti1/TuiCss](https://github.com/vinibiavatti1/TuiCss) - Text-based user interface CSS library
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
@@ -8105,6 +8110,7 @@
 
 ## Solidity 
 
+- [blocksecteam/defi_poc](https://github.com/blocksecteam/defi_poc) - POC for DeFi Vulnerabilities
 - [crytic/echidna](https://github.com/crytic/echidna) - Ethereum smart contract fuzzer
 
 ## Starlark 
@@ -8375,7 +8381,7 @@
 - [ospfranco/sol](https://github.com/ospfranco/sol) - A macOS launcher/command palette
 - [gregjacobs/Autolinker.js](https://github.com/gregjacobs/Autolinker.js) - Utility to Automatically Link URLs, Email Addresses, Phone Numbers, Twitter handles, and Hashtags in a given block of text/HTML
 - [purocean/yn](https://github.com/purocean/yn) - A Hackable Markdown Note Application for Programmers. Version control, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, plug-in, and macro replacement.
-- [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows and macOS.
+- [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
 - [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) - 
 - [planetscale/beam](https://github.com/planetscale/beam) - A simple message board for your organization or project
 - [Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner) - Image inpainting tool powered by SOTA AI Model
@@ -8485,7 +8491,7 @@
 - [badgen/badgen.net](https://github.com/badgen/badgen.net) - Fast badge service
 - [Jinjiang/zhlint](https://github.com/Jinjiang/zhlint) - A linting tool for Chinese language.
 - [textlint/textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown.
-- [i5ting/imove](https://github.com/i5ting/imove) - Move your mouse, generate code from flow chart
+- [i5ting/imove](https://github.com/i5ting/imove) - INACTIVE: Move your mouse, generate code from flow chart
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [phodal/clean-frontend](https://github.com/phodal/clean-frontend) - Clean Frontend Architecture：整洁前端架构
 - [LasCC/Hack-Tools](https://github.com/LasCC/Hack-Tools) - The all-in-one Red Team extension for Web Pentester 🛠
