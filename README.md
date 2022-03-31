@@ -623,7 +623,7 @@
 ## C++ 
 
 - [lief-project/LIEF](https://github.com/lief-project/LIEF) - LIEF - Library to Instrument Executable Formats
-- [flomesh-io/pipy](https://github.com/flomesh-io/pipy) - Pipy is a programmable network proxy for the cloud, edge and IoT.
+- [flomesh-io/pipy](https://github.com/flomesh-io/pipy) - Pipy is a programmable proxy for the cloud, edge and IoT.
 - [mikedld/bt-migrate](https://github.com/mikedld/bt-migrate) - Torrent state migration tool
 - [ssloy/tinyrenderer](https://github.com/ssloy/tinyrenderer) - A brief computer graphics / rendering course
 - [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents
@@ -702,7 +702,7 @@
 - [klzgrad/naiveproxy](https://github.com/klzgrad/naiveproxy) - Make a fortune quietly
 - [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
 - [FSecureLABS/C3](https://github.com/FSecureLABS/C3) - Custom Command and Control (C3). A framework for rapid prototyping of custom C2 channels, while still providing integration with existing offensive toolkits.
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 9.2.0.42852, 3.3.5 = 3.3.5a.12340)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 9.2.0.42979, 3.3.5 = 3.3.5a.12340)
 - [TonyChen56/WeChatRobot](https://github.com/TonyChen56/WeChatRobot) - PC版微信机器人 微信Api、WeChatApis.dll、微信聊天机器人 python微信api 微信接口 微信数据库解密
 - [everdox/InfinityHook](https://github.com/everdox/InfinityHook) - Hook system calls, context switches, page faults and more.
 - [cycfi/elements](https://github.com/cycfi/elements) - Elements C++ GUI library
@@ -970,6 +970,7 @@
 - [rstacruz/flatdoc](https://github.com/rstacruz/flatdoc) - Build sites fast from Markdown
 - [picturepan2/instagram.css](https://github.com/picturepan2/instagram.css) - Instagram.css - Complete set of Instagram filters in pure CSS
 - [waylybaye/HyperApp-Guide](https://github.com/waylybaye/HyperApp-Guide) - HyperApp user's manual
+- [asoul-sig/asouldocs](https://github.com/asoul-sig/asouldocs) - ASoulDocs is a web server for multilingual, real-time synchronized and searchable documentation
 - [Martz90/vivify](https://github.com/Martz90/vivify) - Vivify is free CSS animation library.
 - [Chalarangelo/mini.css](https://github.com/Chalarangelo/mini.css) - A minimal, responsive, style-agnostic CSS framework!
 - [marvelapp/devices.css](https://github.com/marvelapp/devices.css) - Pure CSS phones and tablets
@@ -1184,7 +1185,6 @@
 ## Emacs Lisp 
 
 - [zevlg/telega.el](https://github.com/zevlg/telega.el) - GNU Emacs telegram client (unofficial)
-- [emacs-eaf/emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework) - A free/libre and open-source extensible framework that revolutionizes the graphical capabilities of Emacs, the key to ultimately Live in Emacs
 - [manateelazycat/sdcv](https://github.com/manateelazycat/sdcv) - Emacs interface for sdcv (Stardict console version)
 - [magit/magit](https://github.com/magit/magit) - It's Magit! A Git porcelain inside Emacs.
 - [hlissner/doom-emacs](https://github.com/hlissner/doom-emacs) - An Emacs framework for the stubborn martian hacker
@@ -2441,7 +2441,6 @@
 - [pipesocks/pipesocks.github.io](https://github.com/pipesocks/pipesocks.github.io) - A website for pipesocks.
 - [russellgoldenberg/scrollama](https://github.com/russellgoldenberg/scrollama) - Scrollytelling with IntersectionObserver.
 - [MehediH/Tweeten](https://github.com/MehediH/Tweeten) - An intuitive and powerful Twitter experience built for those who get real work done.
-- [asoul-sig/asouldocs](https://github.com/asoul-sig/asouldocs) - ASoulDocs is a web server for multilingual, real-time synchronized and searchable documentation
 - [edwardtufte/tufte-css](https://github.com/edwardtufte/tufte-css) - Style your webpage like Edward Tufte’s handouts.
 - [alvarcarto/url-to-pdf-api](https://github.com/alvarcarto/url-to-pdf-api) - Web page PDF/PNG rendering done right. Self-hosted service for rendering receipts, invoices, or any content.
 - [CHYbeta/Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning) - Web-Security-Learning
@@ -3302,7 +3301,7 @@
 - [pinterest/gestalt](https://github.com/pinterest/gestalt) - A set of React UI components that supports Pinterest’s design language
 - [RcKeller/CVE-Tool](https://github.com/RcKeller/CVE-Tool) - CVE query tool using RedHat
 - [cure53/DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
-- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - generate code from Curl commands
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Turn curl commands into code
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
 - [Meituan-Dianping/mpvue](https://github.com/Meituan-Dianping/mpvue) - 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。
@@ -3779,7 +3778,7 @@
 - [FormstoneClassic/Wallpaper](https://github.com/FormstoneClassic/Wallpaper) - A jQuery plugin for smooth-scaling, element-filling backgrounds.
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [jackocnr/intl-tel-input](https://github.com/jackocnr/intl-tel-input) - A JavaScript plugin for entering and validating international telephone numbers
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core (formerly Material UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
 - [trentrichardson/jQuery-Timepicker-Addon](https://github.com/trentrichardson/jQuery-Timepicker-Addon) - Adds a timepicker to jQueryUI Datepicker
 - [addyosmani/tmi](https://github.com/addyosmani/tmi) - TMI (Too Many Images) - discover your image weight on the web
 - [AlaSQL/alasql](https://github.com/AlaSQL/alasql) - AlaSQL.js - JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL). Export, store, and import data from localStorage, IndexedDB, or Excel.
@@ -5547,6 +5546,8 @@
 
 ## Python 
 
+- [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font) - 开源的泛中日韩像素字体 / Open source Pan-CJK pixel font
+- [BstLabs/py-dynacli](https://github.com/BstLabs/py-dynacli) - DynaCLI is a cloud-friendly Python library for converting pure Python functions into Linux Shell commands.
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background.
 - [sqlalchemy/mako](https://github.com/sqlalchemy/mako) - Mako Templates for Python
 - [edgedb/imdbench](https://github.com/edgedb/imdbench) - IMDBench — Realistic ORM benchmarking
@@ -5672,6 +5673,7 @@
 - [jek/blinker](https://github.com/jek/blinker) - A fast Python in-process signal/event dispatching system.
 - [containers/podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
+- [emacs-eaf/emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework) - A free/libre and open-source extensible framework that revolutionizes the graphical capabilities of Emacs, the key to ultimately Live in Emacs
 - [nschloe/tiptop](https://github.com/nschloe/tiptop) - :desktop_computer: Command-line system monitoring
 - [nedbat/cog](https://github.com/nedbat/cog) - Small bits of Python computation for static files
 - [csurfer/pyheat](https://github.com/csurfer/pyheat) - pprofile + matplotlib = Python program profiled as an awesome heatmap!
@@ -6903,7 +6905,7 @@
 - [phoeagon/gfw-sim](https://github.com/phoeagon/gfw-sim) - A GFW simulator to work on routers, based on OpenWRT.
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [mitsuhiko/unp](https://github.com/mitsuhiko/unp) - Unpacks things.
-- [falconry/falcon](https://github.com/falconry/falcon) - The no-nonsense data plane API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.
+- [falconry/falcon](https://github.com/falconry/falcon) - The no-nonsense web data plane API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.
 - [msiemens/tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
 - [whiteclover/dbpy](https://github.com/whiteclover/dbpy) - Database  abstraction layer for pythoneer
 - [sloria/doitlive](https://github.com/sloria/doitlive) - Because sometimes you need to do it live
@@ -7488,7 +7490,7 @@
 
 ## Rust 
 
-- [rubrikinc/wachy](https://github.com/rubrikinc/wachy) - A dynamic tracing profiler for Linux
+- [rubrikinc/wachy](https://github.com/rubrikinc/wachy) - A UI for eBPF-based performance debugging
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or JavaScript.
 - [aramperes/onetun](https://github.com/aramperes/onetun) - Userland WireGuard proxy in Rust
 - [zineland/zine](https://github.com/zineland/zine) - Zine - a simple and opinionated tool to build your own magazine.
@@ -8400,6 +8402,7 @@
 
 ## TeX 
 
+- [qiangmzsx/Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google) - 《Software Engineering at Google》的中文翻译版本
 - [openmlsys/openmlsys-zh](https://github.com/openmlsys/openmlsys-zh) - 《Machine Learning Systems: Design and Implementation》- Chinese Version
 - [sjtug/SJTUThesis](https://github.com/sjtug/SJTUThesis) - 上海交通大学 XeLaTeX 学位论文及课程论文模板 | Shanghai Jiao Tong University XeLaTeX Thesis Template
 - [Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template) - A pandoc LaTeX template to convert markdown files to PDF or LaTeX.
