@@ -970,7 +970,6 @@
 - [rstacruz/flatdoc](https://github.com/rstacruz/flatdoc) - Build sites fast from Markdown
 - [picturepan2/instagram.css](https://github.com/picturepan2/instagram.css) - Instagram.css - Complete set of Instagram filters in pure CSS
 - [waylybaye/HyperApp-Guide](https://github.com/waylybaye/HyperApp-Guide) - HyperApp user's manual
-- [asoul-sig/asouldocs](https://github.com/asoul-sig/asouldocs) - ASoulDocs is a web server for multilingual, real-time synchronized and searchable documentation
 - [Martz90/vivify](https://github.com/Martz90/vivify) - Vivify is free CSS animation library.
 - [Chalarangelo/mini.css](https://github.com/Chalarangelo/mini.css) - A minimal, responsive, style-agnostic CSS framework!
 - [marvelapp/devices.css](https://github.com/marvelapp/devices.css) - Pure CSS phones and tablets
@@ -1335,7 +1334,7 @@
 - [jkstack/natpass](https://github.com/jkstack/natpass) - 新一代主机管理工具，支持web vnc和web shell，居家办公神器
 - [zu1k/nali](https://github.com/zu1k/nali) - 一个查询IP地理信息和CDN服务提供商的离线终端工具.An offline tool for querying IP geographic information and CDN provider.
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go
-- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - OpenIM: Instant messaging open source project based on go built by former IM technology experts. Backend in Go.（由IM技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端SDK开源即时通讯（IM）整体解决方案，可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。）
+- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - OpenIM: Instant messaging open source project based on go built by IM technology experts. Backend in Go.（由IM技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端SDK开源即时通讯（IM）整体解决方案，可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。）
 - [jedib0t/go-pretty](https://github.com/jedib0t/go-pretty) - Pretty print tables and more in golang!
 - [vektra/mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Golang
 - [GoogleContainerTools/container-structure-test](https://github.com/GoogleContainerTools/container-structure-test) - validate the structure of your container images
@@ -1393,7 +1392,7 @@
 - [lesismal/arpc](https://github.com/lesismal/arpc) - More effective network communication, two-way calling, notify and broadcast supported.
 - [securego/gosec](https://github.com/securego/gosec) - Golang security checker
 - [saljam/webwormhole](https://github.com/saljam/webwormhole) - Peer authenticated WebRTC.
-- [fanux/sealos](https://github.com/fanux/sealos) - 一条命令离线安装高可用 Kubernetes，3min 装完，500M，100年证书，版本不要太全，生产环境稳如老狗🔥 ⎈ 🐳
+- [fanux/sealos](https://github.com/fanux/sealos) - 以kubernetes为内核的云操作系统发行版，让云原生简单普及。3min 一键高可用装完，500M，100年证书，版本不要太全，生产环境稳如老狗🔥 ⎈ 🐳
 - [alexflint/go-arg](https://github.com/alexflint/go-arg) - Struct-based argument parsing in Go
 - [cristalhq/aconfig](https://github.com/cristalhq/aconfig) - Simple, useful and opinionated config loader.
 - [tj/gobinaries](https://github.com/tj/gobinaries) - Golang binaries compiled on-demand for your system
@@ -2444,6 +2443,7 @@
 - [pipesocks/pipesocks.github.io](https://github.com/pipesocks/pipesocks.github.io) - A website for pipesocks.
 - [russellgoldenberg/scrollama](https://github.com/russellgoldenberg/scrollama) - Scrollytelling with IntersectionObserver.
 - [MehediH/Tweeten](https://github.com/MehediH/Tweeten) - An intuitive and powerful Twitter experience built for those who get real work done.
+- [asoul-sig/asouldocs](https://github.com/asoul-sig/asouldocs) - ASoulDocs is a web server for multilingual, real-time synchronized and searchable documentation
 - [edwardtufte/tufte-css](https://github.com/edwardtufte/tufte-css) - Style your webpage like Edward Tufte’s handouts.
 - [alvarcarto/url-to-pdf-api](https://github.com/alvarcarto/url-to-pdf-api) - Web page PDF/PNG rendering done right. Self-hosted service for rendering receipts, invoices, or any content.
 - [CHYbeta/Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning) - Web-Security-Learning
@@ -2919,7 +2919,7 @@
 - [Smile4ever/Neat-URL](https://github.com/Smile4ever/Neat-URL) - Neat URL cleans URLs, removing parameters such as Google Analytics' utm parameters.
 - [Th3Wall/Fakeflix](https://github.com/Th3Wall/Fakeflix) - Not the usual clone that you can find on the web.
 - [pa7/heatmap.js](https://github.com/pa7/heatmap.js) - 🔥 JavaScript Library for HTML5 canvas based heatmaps
-- [code-for-charity/YouTube-Extension](https://github.com/code-for-charity/YouTube-Extension) - YouTube Extension 🎧80+Features🧰(Please⭐document / contribute!) 📌Tidy📌Longest-standing©️2012. Users👨‍👩‍👧‍👧480,000+ ⚙️⋮⏯️🎞️☕🎛️🔴🎬🔊🎨🧩🧪📈Player: Repeat Screenshot Rotate; Hide related video distraction. Always expand video Description. Playback speed. Video Quality bandwidth H.264 electricity. Player Size Full Window. Themes Customization. Statistics. Playlist Reverse YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube Youtube enhancer YouTube app YouTube video YouTube YouTube YouTube api v3 YouTube playback YouTube player VP8 VP9 AV1 vidIQ tubebuddy download adblocker adblock ads sponsorblock addon youtube music ⭐ youtube premium css css4 html5 ytdl youtube-dl invidious iridium ParticleCore youtube+ youtube++ youtube-plus maia-yt youtube nonstop youtube control center vlogger vlog h264ify h264 m.youtube.com music.youtube.com studio.youtube youtube mobile youtube studio ⭐ kids Vanced gaming.youtube.com gaming youtubecenter freetube lite-youtube-embed newpipe youtube-dl-gui  mps-youtube nuclear pytube awesome youtubers youtube downloader 8k 4k 60fps 30fps youtubeexplode vidgear k-lite tubebuddy adobe apple ios iphone design simplify ffmpeg premiere designer annoyance  youtube upload
+- [code-for-charity/YouTube-Extension](https://github.com/code-for-charity/YouTube-Extension) - YouTube Extension🎧[80+Features🧰](Please⭐document/wiki!)📌📌Lean&Longest-standing(©️2012)[Users👨‍👩‍👧‍👧500 000+] ⚙️⋮[🎞️☕🎛️🎬🔴⏯️🔊🧩📈 🎨🧪] [Player: Repeat Screenshot Rotate; Hide related video distraction. Always expand video Description. Playback speed. Video Quality bandwidth H.264 electricity. Player Size Full Window. Themes Customization. Statistics. Playlist Reverse YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube Youtube enhancer YouTube app YouTube video YouTube YouTube YouTube api v3 YouTube playback YouTube player VP8 VP9 AV1 vidIQ tubebuddy download adblocker adblock ads sponsorblock addon youtube music ⭐ youtube premium css css4 html5 ytdl youtube-dl invidious iridium ParticleCore youtube+ youtube++ youtube-plus maia-yt youtube nonstop youtube control center vlogger vlog h264ify h264 m.youtube.com music.youtube.com studio.youtube youtube mobile youtube studio ⭐ kids Vanced gaming.youtube.com gaming youtubecenter freetube lite-youtube-embed newpipe youtube-dl-gui  mps-youtube nuclear pytube awesome youtubers youtube downloader 8k 4k 60fps 30fps youtubeexplode vidgear k-lite tubebuddy adobe apple ios iphone design simplify ffmpeg premiere designer annoyance  youtube upload
 - [reruin/sharelist](https://github.com/reruin/sharelist) - 快速分享 GoogleDrive OneDrive
 - [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
 - [kickscondor/fraidycat](https://github.com/kickscondor/fraidycat) - Follow blogs, wikis, YouTube channels, as well as accounts on Twitter, Instagram, etc. from a single page.
@@ -4339,6 +4339,7 @@
 
 ## Objective-C 
 
+- [toy/blueutil](https://github.com/toy/blueutil) - CLI for bluetooth on OSX: power, discoverable state, list, inquire devices, connect, info, …
 - [sveinbjornt/hear](https://github.com/sveinbjornt/hear) - Command line speech recognition for macOS
 - [prasmussen/chrome-cli](https://github.com/prasmussen/chrome-cli) - Control Google Chrome from the command line
 - [zorgiepoo/Bit-Slicer](https://github.com/zorgiepoo/Bit-Slicer) - Universal game trainer for macOS
@@ -5311,7 +5312,7 @@
 ## PHP 
 
 - [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕 - we stand with 🇺🇦
-- [leonstafford/wp2static](https://github.com/leonstafford/wp2static) - WordPress static site generator for security, performance and cost benefits
+- [WP2Static/wp2static](https://github.com/WP2Static/wp2static) - WordPress static site generator for security, performance and cost benefits
 - [stevegrunwell/asimov](https://github.com/stevegrunwell/asimov) - Automatically exclude development dependencies from Apple Time Machine backups
 - [operasoftware/ssh-key-authority](https://github.com/operasoftware/ssh-key-authority) - A tool for managing SSH key access to any number of servers.
 - [Piwigo/Piwigo](https://github.com/Piwigo/Piwigo) - Manage your photos with Piwigo, a full featured open source photo gallery application for the web. Star us on Github! More than 200 plugins and themes available. Join us and contribute!
@@ -5545,6 +5546,8 @@
 
 ## Python 
 
+- [Parsl/parsl](https://github.com/Parsl/parsl) - Parsl - a Python parallel scripting library
+- [joblib/joblib](https://github.com/joblib/joblib) - Computing with Python functions.
 - [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - VizTracer is a low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution.
 - [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font) - 开源的泛中日韩像素字体 / Open source Pan-CJK pixel font
 - [BstLabs/py-dynacli](https://github.com/BstLabs/py-dynacli) - DynaCLI is a cloud-friendly Python library for converting pure Python functions into Linux Shell commands.
@@ -5830,7 +5833,7 @@
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
 - [PaddlePaddle/PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN) - PaddlePaddle GAN library, including lots of interesting applications like First-Order motion transfer,  Wav2Lip, picture repair, image editing, photo2cartoon, image style transfer, GPEN, and so on.
 - [Baekalfen/PyBoy](https://github.com/Baekalfen/PyBoy) - Game Boy emulator written in Python
-- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone.
+- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere.
 - [konradhalas/dacite](https://github.com/konradhalas/dacite) - Simple creation of data classes from dictionaries.
 - [alievk/avatarify-python](https://github.com/alievk/avatarify-python) - Avatars for Zoom, Skype and other video-conferencing apps.
 - [renerocksai/sublime_zk](https://github.com/renerocksai/sublime_zk) - A SublimeText3 package featuring ID based wiki style links, and #tags, intended for zettelkasten method users. Loaded with tons of features like inline image display, sophisticated tag search, note transclusion features, support for note templates, bibliography support, support for multiple panes, etc. to make working in your Zettelkasten a joy :smile:.
@@ -6648,7 +6651,7 @@
 - [hubert3/iSniff-GPS](https://github.com/hubert3/iSniff-GPS) - Passive sniffing tool for capturing and visualising WiFi location data disclosed by iOS devices
 - [jekyc/wig](https://github.com/jekyc/wig) - WebApp Information Gatherer
 - [Lingerhk/hacking_script](https://github.com/Lingerhk/hacking_script) - 开发或收集的一些网络安全方面的脚本、小工具
-- [trufflesecurity/truffleHog](https://github.com/trufflesecurity/truffleHog) - Searches through git repositories for high entropy strings and secrets, digging deep into commit history
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find credentials all over the place
 - [ring04h/weakfilescan](https://github.com/ring04h/weakfilescan) - 动态多线程敏感信息泄露检测工具
 - [alibaba/minion](https://github.com/alibaba/minion) - Minion, which achieves an approach to maximize utilization of broadband traffic like BT, implemented by python and based on HTTP protocol
 - [kylemcdonald/FreeWifi](https://github.com/kylemcdonald/FreeWifi) - How to get free wifi.
@@ -8426,7 +8429,7 @@
 - [webtoon/psd](https://github.com/webtoon/psd) - Blazing fast, zero-dependency PSD parser for the web and Node.js
 - [fingerprintjs/blog-nojs-fingerprint-demo](https://github.com/fingerprintjs/blog-nojs-fingerprint-demo) - A demo for the no-JavaScript fingerprinting article
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
-- [ospfranco/sol](https://github.com/ospfranco/sol) - A macOS launcher/command palette
+- [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [gregjacobs/Autolinker.js](https://github.com/gregjacobs/Autolinker.js) - Utility to Automatically Link URLs, Email Addresses, Phone Numbers, Twitter handles, and Hashtags in a given block of text/HTML
 - [purocean/yn](https://github.com/purocean/yn) - A Hackable Markdown Note Application for Programmers. Version control, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, plug-in, and macro replacement.
 - [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
@@ -8567,7 +8570,7 @@
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [Vanessa219/vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
-- [giscafer/blog](https://github.com/giscafer/blog) - Next.js + Issues 博客解决方案
+- [giscafer/blog](https://github.com/giscafer/blog) - Next.js + Issues 博客解决方案 https://www.giscafer.com
 - [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
 - [elsaland/elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal, fast and secure runtime for JavaScript and TypeScript written in Go
 - [geekdada/yasd](https://github.com/geekdada/yasd) - Surge Web Dashboard
