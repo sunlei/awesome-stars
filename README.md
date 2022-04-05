@@ -2156,6 +2156,7 @@
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 - [ssllabs/ssllabs-scan](https://github.com/ssllabs/ssllabs-scan) - A command-line reference-implementation client for SSL Labs APIs, designed for automated and/or bulk testing.
 - [zmap/zdns](https://github.com/zmap/zdns) - Fast CLI DNS Lookup Tool
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find credentials all over the place
 - [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 - [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly.
 - [golang/dep](https://github.com/golang/dep) - Go dependency management tool experiment (deprecated)
@@ -2956,7 +2957,7 @@
 - [krisk/Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript
 - [krausest/js-framework-benchmark](https://github.com/krausest/js-framework-benchmark) - A comparison of the perfomance of a few popular javascript frameworks
 - [Tencent/nohost](https://github.com/Tencent/nohost) - 基于 Whistle 实现的多账号多环境远程配置及抓包调试平台
-- [mikecao/umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
+- [mikecao/umami](https://github.com/mikecao/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [manojVivek/medium-unlimited](https://github.com/manojVivek/medium-unlimited) - A browser extension to read medium.com articles for free without membership.
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [GladysAssistant/Gladys](https://github.com/GladysAssistant/Gladys) - A privacy-first, open-source home assistant
@@ -3067,7 +3068,7 @@
 - [leancloud/docs](https://github.com/leancloud/docs) - LeanCloud Documentation
 - [be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) - Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
 - [JAVClub/core](https://github.com/JAVClub/core) - 🔞 JAVClub - 让你的大姐姐不再走丢
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 1600 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 1700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [LDAPAccountManager/lam](https://github.com/LDAPAccountManager/lam) - LDAP Account Manager
 - [subnub/myDrive](https://github.com/subnub/myDrive) - Node.js and mongoDB Google Drive Clone
 - [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version) - :trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
@@ -4607,6 +4608,7 @@
 
 ## Others 
 
+- [jotaen/xit](https://github.com/jotaen/xit) - A plain-text file format for todos and check lists
 - [xioacd99/study-is-wonderful](https://github.com/xioacd99/study-is-wonderful) - awesome public courses and wonderful study resource
 - [skywind3000/preserve-iso](https://github.com/skywind3000/preserve-iso) - 绝版软件保护工程
 - [bromite/bromite](https://github.com/bromite/bromite) - Bromite a Chromium fork with ad blocking and privacy enhancements; take back your browser!
@@ -5016,7 +5018,7 @@
 - [tuteng/Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) - 程序员应该访问的最佳网站中文版
 - [dexteryy/spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev) - A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
 - [arcticicestudio/nord-iterm2](https://github.com/arcticicestudio/nord-iterm2) - An arctic, north-bluish clean and elegant iTerm2 color scheme.
-- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English that might benefit you a lot 🎉 . 可能是让你受益匪浅的英语进阶指南。
+- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  可能是让你受益匪浅的英语进阶指南。
 - [berzerk0/Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists) - Version 2 is live! Wordlists sorted by probability originally created for password generation and testing - make sure your passwords aren't popular!
 - [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
 - [pangudashu/php7-internal](https://github.com/pangudashu/php7-internal) - PHP7内核剖析
@@ -5546,6 +5548,7 @@
 
 ## Python 
 
+- [pydoit/doit](https://github.com/pydoit/doit) - task management & automation tool
 - [Parsl/parsl](https://github.com/Parsl/parsl) - Parsl - a Python parallel scripting library
 - [joblib/joblib](https://github.com/joblib/joblib) - Computing with Python functions.
 - [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - VizTracer is a low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution.
@@ -6651,7 +6654,6 @@
 - [hubert3/iSniff-GPS](https://github.com/hubert3/iSniff-GPS) - Passive sniffing tool for capturing and visualising WiFi location data disclosed by iOS devices
 - [jekyc/wig](https://github.com/jekyc/wig) - WebApp Information Gatherer
 - [Lingerhk/hacking_script](https://github.com/Lingerhk/hacking_script) - 开发或收集的一些网络安全方面的脚本、小工具
-- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find credentials all over the place
 - [ring04h/weakfilescan](https://github.com/ring04h/weakfilescan) - 动态多线程敏感信息泄露检测工具
 - [alibaba/minion](https://github.com/alibaba/minion) - Minion, which achieves an approach to maximize utilization of broadband traffic like BT, implemented by python and based on HTTP protocol
 - [kylemcdonald/FreeWifi](https://github.com/kylemcdonald/FreeWifi) - How to get free wifi.
