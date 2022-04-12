@@ -1040,7 +1040,6 @@
 - [smcllns/css-social-buttons](https://github.com/smcllns/css-social-buttons) - Zocial: CSS login and social buttons
 - [MfgLabs/mfglabs-iconset](https://github.com/MfgLabs/mfglabs-iconset) - Awesome web font icon by MFG Labs
 - [mockee/arkui](https://github.com/mockee/arkui) - Basic UI components for Douban Read
-- [elrumordelaluz/csshake](https://github.com/elrumordelaluz/csshake) - CSS classes to move your DOM!
 - [webpop/jquery.pin](https://github.com/webpop/jquery.pin) - Pin any element within a container
 - [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
 - [twbs/ratchet](https://github.com/twbs/ratchet) - Build mobile apps with simple HTML, CSS, and JavaScript components.
@@ -1360,7 +1359,7 @@
 - [Qianlitp/crawlergo](https://github.com/Qianlitp/crawlergo) - A powerful browser crawler for web vulnerability scanners
 - [genuinetools/reg](https://github.com/genuinetools/reg) - Docker registry v2 command line client and repo listing generator with security checks.
 - [earthly/earthly](https://github.com/earthly/earthly) - Repeatable builds
-- [werf/werf](https://github.com/werf/werf) - The CLI tool gluing Git, Docker, Helm, and Kubernetes with any CI system to implement CI/CD and Giterminism
+- [werf/werf](https://github.com/werf/werf) - A solution for implementing efficient and consistent software delivery to Kubernetes. It covers the entire life cycle of CI/CD and related artifacts, gluing commonly used tools (such as Git, Docker, Helm, K8s) and facilitating best practices.
 - [hashicorp/boundary](https://github.com/hashicorp/boundary) - Boundary enables identity-based access management for dynamic infrastructure.
 - [gliderlabs/ssh](https://github.com/gliderlabs/ssh) - Easy SSH servers in Golang
 - [owenthereal/upterm](https://github.com/owenthereal/upterm) - Secure Terminal Sharing
@@ -2608,7 +2607,7 @@
 ## Haskell 
 
 - [dapphub/dapptools](https://github.com/dapphub/dapptools) - Dapp, Seth, Hevm, and more
-- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - 🚀  SimpleX - the first chat platform that is 100% private by design - iOS and Android apps are released 📱!
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱!
 - [feramhq/Perspec](https://github.com/feramhq/Perspec) - Scriptable desktop app to correct the perspective of images
 - [jaspervdj/hakyll](https://github.com/jaspervdj/hakyll) - A static website compiler library in Haskell
 - [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
@@ -2842,6 +2841,7 @@
 
 ## JavaScript 
 
+- [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
 - [Yac-Team/ohtipi](https://github.com/Yac-Team/ohtipi) - iMessage AutoFill in any browser on macOS 🔐
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀
 - [amebalabs/Esse](https://github.com/amebalabs/Esse) - Swiss army knife of text transformation for iOS and macOS
@@ -5605,7 +5605,7 @@
 - [gkbrk/slowloris](https://github.com/gkbrk/slowloris) - Low bandwidth DoS tool. Slowloris rewrite in Python.
 - [palahsu/DDoS-Ripper](https://github.com/palahsu/DDoS-Ripper) - DDos Ripper a Distributable Denied-of-Service (DDOS) attack server that cuts off targets or surrounding infrastructure in a flood of Internet traffic
 - [pytorch/torchrec](https://github.com/pytorch/torchrec) - Pytorch domain library for recommendation systems
-- [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) - Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 51 Methods
+- [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) - Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 53 Methods
 - [slingamn/mureq](https://github.com/slingamn/mureq) - Single-file alternative to python-requests
 - [qq547276542/Agriculture_KnowledgeGraph](https://github.com/qq547276542/Agriculture_KnowledgeGraph) - 农业知识图谱(AgriKG)：农业领域的信息检索，命名实体识别，关系抽取，智能问答，辅助决策
 - [taojy123/KeymouseGo](https://github.com/taojy123/KeymouseGo) - 类似按键精灵的鼠标键盘录制和自动化操作 模拟点击和键入 | automate mouse clicks and keyboard input
@@ -7508,6 +7508,7 @@
 
 ## Rust 
 
+- [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [imsnif/diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭
@@ -7771,6 +7772,7 @@
 - [saeedalipoor/icono](https://github.com/saeedalipoor/icono) - One tag One icon, no font or svg, Pure CSS
 - [mdbootstrap/mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 & Material Design 2.0 UI KIT
 - [jessepollak/card](https://github.com/jessepollak/card) - :credit_card: make your credit card form better in one line of code
+- [elrumordelaluz/csshake](https://github.com/elrumordelaluz/csshake) - CSS classes to move your DOM!
 - [sparanoid/sparanoid.com](https://github.com/sparanoid/sparanoid.com) - Sparanoid
 
 ## SWIG 
@@ -8197,6 +8199,8 @@
 
 ## Swift 
 
+- [RobotsAndPencils/xcodes](https://github.com/RobotsAndPencils/xcodes) - The best command-line tool to install and switch between multiple versions of Xcode.
+- [neilsardesai/Manila](https://github.com/neilsardesai/Manila) - A Finder extension for changing folder colors
 - [alin23/Lunar](https://github.com/alin23/Lunar) - Intelligent adaptive brightness for your external monitors
 - [RanKKI/LawRefBook](https://github.com/RanKKI/LawRefBook) - 中华人民共和国法律手册
 - [rwv/AppStorify](https://github.com/rwv/AppStorify) - 🍎 An App to check whether a non-App Store app is in App Store.
@@ -8440,6 +8444,7 @@
 
 ## TypeScript 
 
+- [butlerx/wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better)
 - [Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 - [trufflesuite/ganache](https://github.com/trufflesuite/ganache) - A tool for creating a local blockchain for fast Ethereum development.
 - [Graviton-Code-Editor/Graviton-App](https://github.com/Graviton-Code-Editor/Graviton-App) - 🚀 A modern-looking Code Editor
@@ -8556,7 +8561,7 @@
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [zenghongtu/Remu](https://github.com/zenghongtu/Remu) - 💥Chrome Extension for GitHub that view stars / star history / organizing starred repository
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful Syntax Highlighter.
-- [lint-md/lint-md](https://github.com/lint-md/lint-md) - :books: 检查中文 markdown 编写格式规范的命令行工具，基于 AST，方便集成 ci，写博客 / 文档必备。支持 API 调用！
+- [lint-md/lint-md](https://github.com/lint-md/lint-md) - :books: 检查中文 markdown 编写格式规范的命令行工具，基于 AST，方便集成 CI，写博客 / 文档必备。支持 API 调用！
 - [rossning92/movy](https://github.com/rossning92/movy) - movy.js is a client-side JS animation engine for creating explanatory videos.
 - [vuedx/languagetools](https://github.com/vuedx/languagetools) - A collection of tools for better IDE experience.
 - [badgen/badgen.net](https://github.com/badgen/badgen.net) - Fast badge service
