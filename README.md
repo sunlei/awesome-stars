@@ -4820,7 +4820,7 @@
 - [hacklcx/HFish](https://github.com/hacklcx/HFish) - 安全、可靠、简单、免费的企业级蜜罐
 - [toutiaoio/awesome-architecture](https://github.com/toutiaoio/awesome-architecture) - 架构师技术图谱，助你早日成为架构师
 - [qwerty472123/wxappUnpacker](https://github.com/qwerty472123/wxappUnpacker) - wxml被“编译“后”压缩“一下多好！😀
-- [dyweb/papers-notebook](https://github.com/dyweb/papers-notebook) - :page_facing_up: :cn: :page_with_curl: 论文阅读笔记（分布式系统、虚拟化、机器学习）Papers Notebook (Distributed System, Virtualization, Machine Learning), created by @gaocegege
+- [dyweb/papers-notebook](https://github.com/dyweb/papers-notebook) - :page_facing_up: :cn: :page_with_curl: 论文阅读笔记（分布式系统、虚拟化、机器学习）Papers Notebook (Distributed System, Virtualization, Machine Learning)
 - [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
 - [Bo0oM/fuzz.txt](https://github.com/Bo0oM/fuzz.txt) - Potentially dangerous files
 - [fmzquant/strategies](https://github.com/fmzquant/strategies) - quantitative trading with Javascript, Python, C++, Blockly, MyLanguage(麦语言)
@@ -5579,7 +5579,7 @@
 - [Parsl/parsl](https://github.com/Parsl/parsl) - Parsl - a Python parallel scripting library
 - [joblib/joblib](https://github.com/joblib/joblib) - Computing with Python functions.
 - [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - VizTracer is a low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution.
-- [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font) - 开源的泛中日韩像素字体 / Open source Pan-CJK pixel font
+- [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font) - 方舟像素字体 - 开源的泛中日韩像素字体 / Ark pixel font - Open source Pan-CJK pixel font
 - [BstLabs/py-dynacli](https://github.com/BstLabs/py-dynacli) - DynaCLI is a cloud-friendly Python library for converting pure Python functions into Linux Shell commands.
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background.
 - [sqlalchemy/mako](https://github.com/sqlalchemy/mako) - Mako Templates for Python
@@ -5611,7 +5611,7 @@
 - [royorel/StyleSDF](https://github.com/royorel/StyleSDF) - 
 - [intel/cve-bin-tool](https://github.com/intel/cve-bin-tool) - The CVE Binary Tool helps you determine if your system includes known vulnerabilities. You can scan binaries for over 100 common, vulnerable components (openssl, libpng, libxml2, expat and others), or if you know the components used, you can get a list of known vulnerabilities associated with a list of components and versions.
 - [Blobbackup/Blobbackup](https://github.com/Blobbackup/Blobbackup) - Private, Secure Computer Backups
-- [Mara-Li/mkdocs_obsidian_publish](https://github.com/Mara-Li/mkdocs_obsidian_publish) - Publish your obsidian vault through a python script
+- [Mara-Li/obsidian-mkdocs-publisher-python](https://github.com/Mara-Li/obsidian-mkdocs-publisher-python) - Publish your obsidian vault through a python script
 - [ceccopierangiolieugenio/pyTermTk](https://github.com/ceccopierangiolieugenio/pyTermTk) - Python Terminal Toolkit
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations during build-time for Terraform, CloudFormation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
 - [simonw/sqlite-utils](https://github.com/simonw/sqlite-utils) - Python CLI utility and library for manipulating SQLite databases
