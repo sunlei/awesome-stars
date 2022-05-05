@@ -32,4 +32,4 @@ jobs:
             https://api.mailgun.net/v3/${{ secrets.MAILGUN_DOMAIN_NAME }}/messages \
             -F from='awesome-stars <postmaster@${{ secrets.MAILGUN_DOMAIN_NAME }}>' \
             -F to=${{ secrets.EMAIL_TO }} -F subject="Awesome stars · $DATE" \
-            -F text="$RESULT" --form-string html="<html>$RESULT</html>"
+            --form-string html="<html>$RESULT</html>"
