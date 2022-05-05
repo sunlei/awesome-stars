@@ -22,7 +22,6 @@ jobs:
         shell: bash
         run: |
           export RESULT=$(grep -E "^- \[.+$" README.md | grep '](http' | shuf -n 10 | pandoc --from markdown --to html)
-          echo $RESULT
           export DATE=$(date +"%Y-%m-%d")
 
           [[ ! -z $RESULT ]] \
