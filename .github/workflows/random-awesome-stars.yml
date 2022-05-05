@@ -16,10 +16,11 @@ jobs:
       - name: Install dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y --no-install-recommends pandoc
+          sudo apt-get install -y --no-install-recommends curl pandoc
           which grep
           which shuf
           which pandoc
+          which curl
 
       - name: Send Email
         shell: bash
