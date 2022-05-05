@@ -7,7 +7,7 @@ on:
     - cron: 30 0 * * *
 
 jobs:
-  awesome-stars:
+  update-awesome-stars:
     name: update awesome-stars
     runs-on: ubuntu-latest
     steps:

@@ -1,0 +1,33 @@
+# from: https://github.com/maguowei/awesome-stars/blob/master/.github/workflows/schedules.yml
+
+name: random awesome-stars
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: 30 0 * * *
+
+jobs:
+  random-awesome-stars:
+    name: random awesome-stars
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Install dependencies
+        run: |
+          apt-get update
+          apt-get install -y --no-install-recommends pandoc
+
+      - name: Send Email
+        shell: bash
+        run: |
+          RESULT=$(grep -E "^- \[.+$" README.md | grep '](http' | shuf -n 10 | pandoc --from markdown --to html) \
+          DATE=$(date +"%Y-%m-%d") \
+          && [[ ! -z $RESULT ]] \
+          && curl \
+            -s \
+            --user 'api:${{ secrets.MAILGUN_API_KEY }}' \
+            https://api.mailgun.net/v3/${{ secrets.MAILGUN_DOMAIN_NAME }}/messages \
+            -F from='awesome-stars <postmaster@${{ secrets.MAILGUN_DOMAIN_NAME }}>' \
+            -F to=${{ secrets.EMAIL_TO }} -F subject="Awesome stars · $DATE" \
+            -F text="$RESULT" --form-string html="<html>$RESULT</html>"
