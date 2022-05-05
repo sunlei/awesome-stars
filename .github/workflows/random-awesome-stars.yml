@@ -17,17 +17,15 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y --no-install-recommends curl pandoc
-          which grep
-          which shuf
-          which pandoc
-          which curl
 
       - name: Send Email
         shell: bash
         run: |
-          RESULT=$(grep -E "^- \[.+$" README.md | grep '](http' | shuf -n 10 | pandoc --from markdown --to html) \
-          DATE=$(date +"%Y-%m-%d") \
-          && [[ ! -z $RESULT ]] \
+          export RESULT=$(grep -E "^- \[.+$" README.md | grep '](http' | shuf -n 10 | pandoc --from markdown --to html)
+          echo $RESULT
+          export DATE=$(date +"%Y-%m-%d")
+
+          [[ ! -z $RESULT ]] \
           && curl \
             -s \
             --user 'api:${{ secrets.MAILGUN_API_KEY }}' \
